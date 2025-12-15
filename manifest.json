@@ -1551,8 +1551,21 @@
         "pulldown)",
         "ups"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Light cardio (bike\/row) exercise pose",
+      "display_names" : [
+        "Light cardio (bike\/row)"
+      ],
+      "filename" : "light_cardio_(bike\/row).png",
+      "id" : "light_cardio_(bike\/row)",
+      "keywords" : [
+        "cardio",
+        "light",
+        "(bike\/row)"
+      ]
     }
   ],
-  "last_updated" : "2025-12-15T23:05:23Z",
+  "last_updated" : "2025-12-15T23:11:16Z",
   "version" : "1.0.0"
 }
