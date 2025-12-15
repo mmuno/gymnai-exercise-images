@@ -1,0 +1,1531 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-12-15T20:30:11Z",
+  "base_url": "https://raw.githubusercontent.com/mmuno/gymnai-exercise-images/main/images/",
+  "exercises": [
+    {
+      "id": "push_up",
+      "filename": "push_up.png",
+      "display_names": [
+        "Push-Up",
+        "Push Up",
+        "PushUp"
+      ],
+      "keywords": [
+        "chest",
+        "triceps",
+        "bodyweight",
+        "push"
+      ],
+      "description": "person in plank position with arms extended, body straight, palms on floor shoulder-width apart"
+    },
+    {
+      "id": "bench_press",
+      "filename": "bench_press.png",
+      "display_names": [
+        "Barbell Bench Press",
+        "Bench Press",
+        "BB Bench Press",
+        "Bbell Bench Press"
+      ],
+      "keywords": [
+        "chest",
+        "barbell",
+        "bench",
+        "press"
+      ],
+      "description": "person lying on bench pressing barbell upward with arms extended, feet on floor"
+    },
+    {
+      "id": "incline_bench_press",
+      "filename": "incline_bench_press.png",
+      "display_names": [
+        "Incline Dumbbell Bench Press",
+        "Incline Bench Press",
+        "Incline DB Bench Press",
+        "Incline Dbell Bench Press"
+      ],
+      "keywords": [
+        "chest",
+        "incline",
+        "dumbbell",
+        "press"
+      ],
+      "description": "person on inclined bench at 45 degrees, pressing dumbbells upward"
+    },
+    {
+      "id": "chest_fly",
+      "filename": "chest_fly.png",
+      "display_names": [
+        "Dumbbell Chest Fly",
+        "Chest Fly",
+        "DB Chest Fly",
+        "Dbell Chest Fly"
+      ],
+      "keywords": [
+        "chest",
+        "fly",
+        "dumbbell",
+        "pec"
+      ],
+      "description": "person lying on bench with arms spread wide holding dumbbells, slight bend in elbows"
+    },
+    {
+      "id": "decline_push_up",
+      "filename": "decline_push_up.png",
+      "display_names": [
+        "Decline Push-Up",
+        "Decline Push Up",
+        "Decline PushUp"
+      ],
+      "keywords": [
+        "chest",
+        "decline",
+        "push",
+        "bodyweight"
+      ],
+      "description": "person in push-up position with feet elevated on platform, hands on floor"
+    },
+    {
+      "id": "diamond_push_up",
+      "filename": "diamond_push_up.png",
+      "display_names": [
+        "Diamond Push-Up",
+        "Diamond Push Up",
+        "Diamond PushUp"
+      ],
+      "keywords": [
+        "chest",
+        "triceps",
+        "diamond",
+        "push",
+        "bodyweight"
+      ],
+      "description": "person in push-up position with hands close together forming diamond shape"
+    },
+    {
+      "id": "cable_crossover",
+      "filename": "cable_crossover.png",
+      "display_names": [
+        "Cable Crossover"
+      ],
+      "keywords": [
+        "chest",
+        "cable",
+        "crossover",
+        "fly"
+      ],
+      "description": "person standing between cable machines, arms crossed in front of chest"
+    },
+    {
+      "id": "chest_dip",
+      "filename": "chest_dip.png",
+      "display_names": [
+        "Chest Dip"
+      ],
+      "keywords": [
+        "chest",
+        "dip",
+        "bodyweight",
+        "parallel"
+      ],
+      "description": "person on parallel bars, body leaning forward, arms bent at 90 degrees"
+    },
+    {
+      "id": "landmine_press",
+      "filename": "landmine_press.png",
+      "display_names": [
+        "Landmine Press"
+      ],
+      "keywords": [
+        "chest",
+        "shoulder",
+        "landmine",
+        "press"
+      ],
+      "description": "person standing, pressing barbell end upward with one arm, bar anchored at floor"
+    },
+    {
+      "id": "floor_press",
+      "filename": "floor_press.png",
+      "display_names": [
+        "Dumbbell Floor Press",
+        "Floor Press",
+        "DB Floor Press",
+        "Dbell Floor Press"
+      ],
+      "keywords": [
+        "chest",
+        "floor",
+        "dumbbell",
+        "press"
+      ],
+      "description": "person lying on floor pressing dumbbells upward, knees bent"
+    },
+    {
+      "id": "pull_up",
+      "filename": "pull_up.png",
+      "display_names": [
+        "Pull-Up",
+        "Pull Up",
+        "PullUp"
+      ],
+      "keywords": [
+        "back",
+        "lats",
+        "bodyweight",
+        "pull"
+      ],
+      "description": "person hanging from overhead bar, pulling body up with chin above bar"
+    },
+    {
+      "id": "lat_pulldown",
+      "filename": "lat_pulldown.png",
+      "display_names": [
+        "Lat Pulldown"
+      ],
+      "keywords": [
+        "back",
+        "lats",
+        "cable",
+        "pulldown"
+      ],
+      "description": "person seated at cable machine, pulling bar down to chest level"
+    },
+    {
+      "id": "bent_over_row",
+      "filename": "bent_over_row.png",
+      "display_names": [
+        "Barbell Bent-Over Row",
+        "Barbell Bent Over Row",
+        "Barbell BentOver Row",
+        "Bent Over Row",
+        "BB Bent-Over Row",
+        "Bbell Bent-Over Row"
+      ],
+      "keywords": [
+        "back",
+        "row",
+        "barbell",
+        "bent"
+      ],
+      "description": "person bent forward at hips, pulling barbell toward lower chest"
+    },
+    {
+      "id": "seated_cable_row",
+      "filename": "seated_cable_row.png",
+      "display_names": [
+        "Seated Cable Row"
+      ],
+      "keywords": [
+        "back",
+        "row",
+        "cable",
+        "seated"
+      ],
+      "description": "person seated on rowing machine, pulling cable handle toward abdomen"
+    },
+    {
+      "id": "single_arm_dumbbell_row",
+      "filename": "single_arm_dumbbell_row.png",
+      "display_names": [
+        "Single-Arm Dumbbell Row",
+        "Single Arm Dumbbell Row",
+        "SingleArm Dumbbell Row",
+        "Single-Arm DB Row",
+        "Single-Arm Dbell Row"
+      ],
+      "keywords": [
+        "back",
+        "row",
+        "dumbbell",
+        "single"
+      ],
+      "description": "person with one knee on bench, pulling dumbbell up with opposite arm"
+    },
+    {
+      "id": "face_pull",
+      "filename": "face_pull.png",
+      "display_names": [
+        "Face Pull"
+      ],
+      "keywords": [
+        "back",
+        "rear",
+        "delt",
+        "face",
+        "pull",
+        "cable"
+      ],
+      "description": "person standing, pulling rope attachment toward face with elbows high"
+    },
+    {
+      "id": "deadlift",
+      "filename": "deadlift.png",
+      "display_names": [
+        "Conventional Deadlift",
+        "Deadlift"
+      ],
+      "keywords": [
+        "back",
+        "legs",
+        "barbell",
+        "compound",
+        "deadlift"
+      ],
+      "description": "person standing upright holding barbell at thigh level, back straight"
+    },
+    {
+      "id": "rack_pull",
+      "filename": "rack_pull.png",
+      "display_names": [
+        "Rack Pull"
+      ],
+      "keywords": [
+        "back",
+        "deadlift",
+        "rack",
+        "pull"
+      ],
+      "description": "person pulling barbell from rack at knee height to standing position"
+    },
+    {
+      "id": "inverted_row",
+      "filename": "inverted_row.png",
+      "display_names": [
+        "Inverted Row"
+      ],
+      "keywords": [
+        "back",
+        "row",
+        "bodyweight",
+        "inverted"
+      ],
+      "description": "person hanging under low bar, pulling chest up to bar, body straight"
+    },
+    {
+      "id": "straight_arm_pulldown",
+      "filename": "straight_arm_pulldown.png",
+      "display_names": [
+        "Straight-Arm Pulldown",
+        "Straight Arm Pulldown",
+        "StraightArm Pulldown"
+      ],
+      "keywords": [
+        "back",
+        "lats",
+        "cable",
+        "straight"
+      ],
+      "description": "person standing at cable machine, pushing bar down with straight arms"
+    },
+    {
+      "id": "overhead_press",
+      "filename": "overhead_press.png",
+      "display_names": [
+        "Barbell Overhead Press",
+        "Overhead Press",
+        "BB Overhead Press",
+        "Bbell Overhead Press"
+      ],
+      "keywords": [
+        "shoulder",
+        "press",
+        "barbell",
+        "overhead"
+      ],
+      "description": "person standing, pressing barbell overhead with arms fully extended"
+    },
+    {
+      "id": "lateral_raise",
+      "filename": "lateral_raise.png",
+      "display_names": [
+        "Dumbbell Lateral Raise",
+        "Lateral Raise",
+        "DB Lateral Raise",
+        "Dbell Lateral Raise"
+      ],
+      "keywords": [
+        "shoulder",
+        "lateral",
+        "dumbbell",
+        "raise"
+      ],
+      "description": "person standing, arms raised out to sides at shoulder height holding dumbbells"
+    },
+    {
+      "id": "front_raise",
+      "filename": "front_raise.png",
+      "display_names": [
+        "Dumbbell Front Raise",
+        "Front Raise",
+        "DB Front Raise",
+        "Dbell Front Raise"
+      ],
+      "keywords": [
+        "shoulder",
+        "front",
+        "dumbbell",
+        "raise"
+      ],
+      "description": "person standing, one arm raised straight in front to shoulder height"
+    },
+    {
+      "id": "rear_delt_fly",
+      "filename": "rear_delt_fly.png",
+      "display_names": [
+        "Rear Delt Fly"
+      ],
+      "keywords": [
+        "shoulder",
+        "rear",
+        "delt",
+        "fly"
+      ],
+      "description": "person bent forward, arms spread wide to sides holding dumbbells"
+    },
+    {
+      "id": "arnold_press",
+      "filename": "arnold_press.png",
+      "display_names": [
+        "Arnold Press"
+      ],
+      "keywords": [
+        "shoulder",
+        "press",
+        "arnold",
+        "dumbbell"
+      ],
+      "description": "person seated, pressing dumbbells overhead with rotating motion"
+    },
+    {
+      "id": "upright_row",
+      "filename": "upright_row.png",
+      "display_names": [
+        "Upright Row"
+      ],
+      "keywords": [
+        "shoulder",
+        "traps",
+        "row",
+        "upright"
+      ],
+      "description": "person standing, pulling barbell up to chin level, elbows pointing outward"
+    },
+    {
+      "id": "shrug",
+      "filename": "shrug.png",
+      "display_names": [
+        "Barbell Shrug",
+        "Shrug",
+        "BB Shrug",
+        "Bbell Shrug"
+      ],
+      "keywords": [
+        "shoulder",
+        "traps",
+        "shrug",
+        "barbell"
+      ],
+      "description": "person standing holding barbell, shoulders raised toward ears"
+    },
+    {
+      "id": "pike_push_up",
+      "filename": "pike_push_up.png",
+      "display_names": [
+        "Pike Push-Up",
+        "Pike Push Up",
+        "Pike PushUp"
+      ],
+      "keywords": [
+        "shoulder",
+        "push",
+        "pike",
+        "bodyweight"
+      ],
+      "description": "person in inverted V position, lowering head toward floor between hands"
+    },
+    {
+      "id": "handstand_push_up",
+      "filename": "handstand_push_up.png",
+      "display_names": [
+        "Handstand Push-Up",
+        "Handstand Push Up",
+        "Handstand PushUp"
+      ],
+      "keywords": [
+        "shoulder",
+        "handstand",
+        "push",
+        "bodyweight"
+      ],
+      "description": "person in handstand against wall, lowering head toward floor"
+    },
+    {
+      "id": "cable_lateral_raise",
+      "filename": "cable_lateral_raise.png",
+      "display_names": [
+        "Cable Lateral Raise"
+      ],
+      "keywords": [
+        "shoulder",
+        "lateral",
+        "cable",
+        "raise"
+      ],
+      "description": "person standing next to cable machine, raising arm out to side"
+    },
+    {
+      "id": "bicep_curl",
+      "filename": "bicep_curl.png",
+      "display_names": [
+        "Dumbbell Bicep Curl",
+        "Bicep Curl",
+        "DB Bicep Curl",
+        "Dbell Bicep Curl"
+      ],
+      "keywords": [
+        "biceps",
+        "curl",
+        "dumbbell",
+        "arm"
+      ],
+      "description": "person standing, curling dumbbells up toward shoulders, elbows at sides"
+    },
+    {
+      "id": "hammer_curl",
+      "filename": "hammer_curl.png",
+      "display_names": [
+        "Hammer Curl"
+      ],
+      "keywords": [
+        "biceps",
+        "curl",
+        "hammer",
+        "dumbbell"
+      ],
+      "description": "person standing, curling dumbbells with palms facing each other"
+    },
+    {
+      "id": "tricep_dip",
+      "filename": "tricep_dip.png",
+      "display_names": [
+        "Tricep Dip"
+      ],
+      "keywords": [
+        "triceps",
+        "dip",
+        "bodyweight",
+        "arm"
+      ],
+      "description": "person on parallel bars or bench, lowering body by bending elbows behind"
+    },
+    {
+      "id": "tricep_pushdown",
+      "filename": "tricep_pushdown.png",
+      "display_names": [
+        "Tricep Pushdown"
+      ],
+      "keywords": [
+        "triceps",
+        "pushdown",
+        "cable",
+        "arm"
+      ],
+      "description": "person at cable machine, pushing rope or bar down with arms extending"
+    },
+    {
+      "id": "skull_crusher",
+      "filename": "skull_crusher.png",
+      "display_names": [
+        "Skull Crusher"
+      ],
+      "keywords": [
+        "triceps",
+        "skull",
+        "crusher",
+        "barbell"
+      ],
+      "description": "person lying on bench, lowering barbell toward forehead then extending arms"
+    },
+    {
+      "id": "preacher_curl",
+      "filename": "preacher_curl.png",
+      "display_names": [
+        "Preacher Curl"
+      ],
+      "keywords": [
+        "biceps",
+        "preacher",
+        "curl",
+        "barbell"
+      ],
+      "description": "person with arms resting on angled pad, curling barbell upward"
+    },
+    {
+      "id": "concentration_curl",
+      "filename": "concentration_curl.png",
+      "display_names": [
+        "Concentration Curl"
+      ],
+      "keywords": [
+        "biceps",
+        "concentration",
+        "curl",
+        "dumbbell"
+      ],
+      "description": "person seated, elbow braced on inner thigh, curling dumbbell"
+    },
+    {
+      "id": "overhead_tricep_extension",
+      "filename": "overhead_tricep_extension.png",
+      "display_names": [
+        "Overhead Tricep Extension"
+      ],
+      "keywords": [
+        "triceps",
+        "overhead",
+        "extension",
+        "dumbbell"
+      ],
+      "description": "person standing, holding dumbbell overhead, lowering behind head"
+    },
+    {
+      "id": "close_grip_bench_press",
+      "filename": "close_grip_bench_press.png",
+      "display_names": [
+        "Close-Grip Bench Press",
+        "Close Grip Bench Press",
+        "CloseGrip Bench Press"
+      ],
+      "keywords": [
+        "triceps",
+        "bench",
+        "press",
+        "close"
+      ],
+      "description": "person on bench pressing barbell with hands close together"
+    },
+    {
+      "id": "cable_curl",
+      "filename": "cable_curl.png",
+      "display_names": [
+        "Cable Bicep Curl",
+        "Cable Curl"
+      ],
+      "keywords": [
+        "biceps",
+        "curl",
+        "cable",
+        "arm"
+      ],
+      "description": "person standing at low cable, curling bar upward"
+    },
+    {
+      "id": "squat",
+      "filename": "squat.png",
+      "display_names": [
+        "Barbell Back Squat",
+        "Squat",
+        "BB Back Squat",
+        "Bbell Back Squat"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "squat",
+        "barbell",
+        "compound"
+      ],
+      "description": "person in deep squat position with barbell across upper back"
+    },
+    {
+      "id": "front_squat",
+      "filename": "front_squat.png",
+      "display_names": [
+        "Front Squat"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "squat",
+        "front",
+        "barbell"
+      ],
+      "description": "person in squat position with barbell resting on front shoulders"
+    },
+    {
+      "id": "goblet_squat",
+      "filename": "goblet_squat.png",
+      "display_names": [
+        "Goblet Squat"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "squat",
+        "goblet",
+        "dumbbell"
+      ],
+      "description": "person in squat holding dumbbell or kettlebell at chest"
+    },
+    {
+      "id": "lunge",
+      "filename": "lunge.png",
+      "display_names": [
+        "Walking Lunge",
+        "Lunge"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "lunge",
+        "walking"
+      ],
+      "description": "person in lunge position, one leg forward bent at 90 degrees, back knee near floor"
+    },
+    {
+      "id": "reverse_lunge",
+      "filename": "reverse_lunge.png",
+      "display_names": [
+        "Reverse Lunge"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "lunge",
+        "reverse"
+      ],
+      "description": "person stepping backward into lunge, front leg bent, back leg extended"
+    },
+    {
+      "id": "bulgarian_split_squat",
+      "filename": "bulgarian_split_squat.png",
+      "display_names": [
+        "Bulgarian Split Squat"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "bulgarian",
+        "split",
+        "squat"
+      ],
+      "description": "person in lunge with rear foot elevated on bench behind"
+    },
+    {
+      "id": "leg_press",
+      "filename": "leg_press.png",
+      "display_names": [
+        "Leg Press"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "press",
+        "machine"
+      ],
+      "description": "person seated on leg press machine, legs extended pushing platform"
+    },
+    {
+      "id": "leg_extension",
+      "filename": "leg_extension.png",
+      "display_names": [
+        "Leg Extension"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "extension",
+        "machine"
+      ],
+      "description": "person seated on machine, extending legs straight out"
+    },
+    {
+      "id": "leg_curl",
+      "filename": "leg_curl.png",
+      "display_names": [
+        "Lying Leg Curl",
+        "Leg Curl"
+      ],
+      "keywords": [
+        "legs",
+        "hamstrings",
+        "curl",
+        "machine"
+      ],
+      "description": "person lying face down on machine, curling legs toward buttocks"
+    },
+    {
+      "id": "romanian_deadlift",
+      "filename": "romanian_deadlift.png",
+      "display_names": [
+        "Romanian Deadlift"
+      ],
+      "keywords": [
+        "legs",
+        "hamstrings",
+        "deadlift",
+        "romanian",
+        "rdl"
+      ],
+      "description": "person standing, hinging at hips with slight knee bend, barbell lowering"
+    },
+    {
+      "id": "hip_thrust",
+      "filename": "hip_thrust.png",
+      "display_names": [
+        "Barbell Hip Thrust",
+        "Hip Thrust",
+        "BB Hip Thrust",
+        "Bbell Hip Thrust"
+      ],
+      "keywords": [
+        "legs",
+        "glutes",
+        "thrust",
+        "hip",
+        "barbell"
+      ],
+      "description": "person with upper back on bench, barbell on hips, thrusting hips upward"
+    },
+    {
+      "id": "calf_raise",
+      "filename": "calf_raise.png",
+      "display_names": [
+        "Standing Calf Raise",
+        "Calf Raise"
+      ],
+      "keywords": [
+        "legs",
+        "calves",
+        "raise",
+        "calf"
+      ],
+      "description": "person standing on edge of platform, rising up on toes"
+    },
+    {
+      "id": "step_up",
+      "filename": "step_up.png",
+      "display_names": [
+        "Dumbbell Step-Up",
+        "Dumbbell Step Up",
+        "Dumbbell StepUp",
+        "Step Up",
+        "DB Step-Up",
+        "Dbell Step-Up"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "step",
+        "dumbbell"
+      ],
+      "description": "person stepping up onto box or platform holding dumbbells"
+    },
+    {
+      "id": "sumo_squat",
+      "filename": "sumo_squat.png",
+      "display_names": [
+        "Sumo Squat"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "squat",
+        "sumo",
+        "wide"
+      ],
+      "description": "person in wide stance squat, feet pointed outward, holding weight"
+    },
+    {
+      "id": "wall_sit",
+      "filename": "wall_sit.png",
+      "display_names": [
+        "Wall Sit"
+      ],
+      "keywords": [
+        "legs",
+        "quads",
+        "wall",
+        "isometric"
+      ],
+      "description": "person with back against wall, thighs parallel to floor, sitting position"
+    },
+    {
+      "id": "plank",
+      "filename": "plank.png",
+      "display_names": [
+        "Plank"
+      ],
+      "keywords": [
+        "core",
+        "abs",
+        "plank",
+        "isometric"
+      ],
+      "description": "person in forearm plank position, body straight from head to heels"
+    },
+    {
+      "id": "side_plank",
+      "filename": "side_plank.png",
+      "display_names": [
+        "Side Plank"
+      ],
+      "keywords": [
+        "core",
+        "obliques",
+        "plank",
+        "side"
+      ],
+      "description": "person balancing on one forearm and side of foot, body in straight line"
+    },
+    {
+      "id": "crunch",
+      "filename": "crunch.png",
+      "display_names": [
+        "Crunch"
+      ],
+      "keywords": [
+        "core",
+        "abs",
+        "crunch"
+      ],
+      "description": "person lying on back, shoulders lifted off floor, hands behind head"
+    },
+    {
+      "id": "bicycle_crunch",
+      "filename": "bicycle_crunch.png",
+      "display_names": [
+        "Bicycle Crunch"
+      ],
+      "keywords": [
+        "core",
+        "abs",
+        "crunch",
+        "bicycle",
+        "obliques"
+      ],
+      "description": "person lying on back, opposite elbow touching opposite knee in cycling motion"
+    },
+    {
+      "id": "russian_twist",
+      "filename": "russian_twist.png",
+      "display_names": [
+        "Russian Twist"
+      ],
+      "keywords": [
+        "core",
+        "obliques",
+        "twist",
+        "russian"
+      ],
+      "description": "person seated with torso leaned back, rotating side to side holding weight"
+    },
+    {
+      "id": "leg_raise",
+      "filename": "leg_raise.png",
+      "display_names": [
+        "Hanging Leg Raise",
+        "Leg Raise"
+      ],
+      "keywords": [
+        "core",
+        "abs",
+        "raise",
+        "leg",
+        "hanging"
+      ],
+      "description": "person hanging from bar, raising straight legs up to horizontal"
+    },
+    {
+      "id": "mountain_climber",
+      "filename": "mountain_climber.png",
+      "display_names": [
+        "Mountain Climber"
+      ],
+      "keywords": [
+        "core",
+        "cardio",
+        "mountain",
+        "climber"
+      ],
+      "description": "person in plank position, one knee driven toward chest"
+    },
+    {
+      "id": "dead_bug",
+      "filename": "dead_bug.png",
+      "display_names": [
+        "Dead Bug"
+      ],
+      "keywords": [
+        "core",
+        "abs",
+        "dead",
+        "bug"
+      ],
+      "description": "person lying on back, opposite arm and leg extended while others bent"
+    },
+    {
+      "id": "bird_dog",
+      "filename": "bird_dog.png",
+      "display_names": [
+        "Bird Dog"
+      ],
+      "keywords": [
+        "core",
+        "back",
+        "bird",
+        "dog"
+      ],
+      "description": "person on hands and knees, extending opposite arm and leg straight out"
+    },
+    {
+      "id": "hollow_body_hold",
+      "filename": "hollow_body_hold.png",
+      "display_names": [
+        "Hollow Body Hold"
+      ],
+      "keywords": [
+        "core",
+        "abs",
+        "hollow",
+        "hold"
+      ],
+      "description": "person lying on back, arms and legs raised slightly off floor, lower back pressed down"
+    },
+    {
+      "id": "burpee",
+      "filename": "burpee.png",
+      "display_names": [
+        "Burpee"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "burpee",
+        "cardio",
+        "compound"
+      ],
+      "description": "person jumping with arms overhead, transitioning from standing to plank"
+    },
+    {
+      "id": "clean_and_press",
+      "filename": "clean_and_press.png",
+      "display_names": [
+        "Clean and Press",
+        "Clean And Press"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "clean",
+        "press",
+        "barbell"
+      ],
+      "description": "person standing with barbell pressed overhead after lifting from floor"
+    },
+    {
+      "id": "kettlebell_swing",
+      "filename": "kettlebell_swing.png",
+      "display_names": [
+        "Kettlebell Swing",
+        "KB Swing",
+        "Kbell Swing"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "kettlebell",
+        "swing",
+        "hip"
+      ],
+      "description": "person in hip hinge position swinging kettlebell up to chest height"
+    },
+    {
+      "id": "turkish_get_up",
+      "filename": "turkish_get_up.png",
+      "display_names": [
+        "Turkish Get-Up",
+        "Turkish Get Up",
+        "Turkish GetUp"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "turkish",
+        "getup",
+        "kettlebell"
+      ],
+      "description": "person lying down transitioning to standing while holding weight overhead"
+    },
+    {
+      "id": "thruster",
+      "filename": "thruster.png",
+      "display_names": [
+        "Barbell Thruster",
+        "Thruster",
+        "BB Thruster",
+        "Bbell Thruster"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "thruster",
+        "barbell",
+        "squat"
+      ],
+      "description": "person pressing barbell overhead while rising from squat position"
+    },
+    {
+      "id": "man_maker",
+      "filename": "man_maker.png",
+      "display_names": [
+        "Man Maker"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "manmaker",
+        "dumbbell",
+        "compound"
+      ],
+      "description": "person in push-up position with dumbbells, performing row motion"
+    },
+    {
+      "id": "farmers_walk",
+      "filename": "farmers_walk.png",
+      "display_names": [
+        "Farmer's Walk",
+        "Farmers Walk"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "farmer",
+        "walk",
+        "carry"
+      ],
+      "description": "person walking while carrying heavy weights in each hand at sides"
+    },
+    {
+      "id": "battle_rope",
+      "filename": "battle_rope.png",
+      "display_names": [
+        "Battle Rope Waves",
+        "Battle Rope"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "battle",
+        "rope",
+        "cardio"
+      ],
+      "description": "person in athletic stance creating wave motions with thick ropes"
+    },
+    {
+      "id": "box_jump",
+      "filename": "box_jump.png",
+      "display_names": [
+        "Box Jump"
+      ],
+      "keywords": [
+        "legs",
+        "plyometric",
+        "box",
+        "jump"
+      ],
+      "description": "person jumping onto elevated box platform with both feet"
+    },
+    {
+      "id": "medicine_ball_slam",
+      "filename": "medicine_ball_slam.png",
+      "display_names": [
+        "Medicine Ball Slam"
+      ],
+      "keywords": [
+        "full",
+        "body",
+        "medicine",
+        "ball",
+        "slam"
+      ],
+      "description": "person raising medicine ball overhead then slamming down to floor"
+    },
+    {
+      "id": "running",
+      "filename": "running.png",
+      "display_names": [
+        "Running"
+      ],
+      "keywords": [
+        "cardio",
+        "run",
+        "jog",
+        "aerobic"
+      ],
+      "description": "person in mid-stride running motion, one foot off ground"
+    },
+    {
+      "id": "cycling",
+      "filename": "cycling.png",
+      "display_names": [
+        "Cycling"
+      ],
+      "keywords": [
+        "cardio",
+        "bike",
+        "cycle",
+        "aerobic"
+      ],
+      "description": "person seated on stationary bike or bicycle, pedaling"
+    },
+    {
+      "id": "rowing",
+      "filename": "rowing.png",
+      "display_names": [
+        "Rowing Machine",
+        "Rowing"
+      ],
+      "keywords": [
+        "cardio",
+        "row",
+        "machine",
+        "aerobic"
+      ],
+      "description": "person on rowing machine, pulling handle toward chest with legs extended"
+    },
+    {
+      "id": "jump_rope",
+      "filename": "jump_rope.png",
+      "display_names": [
+        "Jump Rope"
+      ],
+      "keywords": [
+        "cardio",
+        "jump",
+        "rope",
+        "skip"
+      ],
+      "description": "person jumping over rope, arms rotating rope handles"
+    },
+    {
+      "id": "jumping_jack",
+      "filename": "jumping_jack.png",
+      "display_names": [
+        "Jumping Jacks",
+        "Jumping Jack"
+      ],
+      "keywords": [
+        "cardio",
+        "jumping",
+        "jack",
+        "warmup"
+      ],
+      "description": "person with arms raised overhead and legs spread wide"
+    },
+    {
+      "id": "high_knees",
+      "filename": "high_knees.png",
+      "display_names": [
+        "High Knees"
+      ],
+      "keywords": [
+        "cardio",
+        "high",
+        "knees",
+        "warmup"
+      ],
+      "description": "person running in place with knees lifting high toward chest"
+    },
+    {
+      "id": "butt_kicks",
+      "filename": "butt_kicks.png",
+      "display_names": [
+        "Butt Kicks"
+      ],
+      "keywords": [
+        "cardio",
+        "butt",
+        "kicks",
+        "warmup"
+      ],
+      "description": "person running in place, heels kicking back toward buttocks"
+    },
+    {
+      "id": "stair_climber",
+      "filename": "stair_climber.png",
+      "display_names": [
+        "Stair Climber"
+      ],
+      "keywords": [
+        "cardio",
+        "stair",
+        "climber",
+        "machine"
+      ],
+      "description": "person on stair climbing machine, stepping motion"
+    },
+    {
+      "id": "elliptical",
+      "filename": "elliptical.png",
+      "display_names": [
+        "Elliptical Trainer",
+        "Elliptical"
+      ],
+      "keywords": [
+        "cardio",
+        "elliptical",
+        "machine",
+        "aerobic"
+      ],
+      "description": "person on elliptical machine with arms on moving handles"
+    },
+    {
+      "id": "swimming",
+      "filename": "swimming.png",
+      "display_names": [
+        "Swimming"
+      ],
+      "keywords": [
+        "cardio",
+        "swim",
+        "aerobic",
+        "full"
+      ],
+      "description": "person in horizontal swimming position, arms in freestyle stroke"
+    },
+    {
+      "id": "sprint",
+      "filename": "sprint.png",
+      "display_names": [
+        "Sprint"
+      ],
+      "keywords": [
+        "cardio",
+        "sprint",
+        "run",
+        "hiit"
+      ],
+      "description": "person in explosive running position, body leaning forward"
+    },
+    {
+      "id": "lateral_shuffle",
+      "filename": "lateral_shuffle.png",
+      "display_names": [
+        "Lateral Shuffle"
+      ],
+      "keywords": [
+        "cardio",
+        "lateral",
+        "shuffle",
+        "agility"
+      ],
+      "description": "person in athletic stance moving sideways with quick steps"
+    },
+    {
+      "id": "skater_jump",
+      "filename": "skater_jump.png",
+      "display_names": [
+        "Skater Jumps",
+        "Skater Jump"
+      ],
+      "keywords": [
+        "cardio",
+        "skater",
+        "jump",
+        "lateral"
+      ],
+      "description": "person jumping laterally from one leg to other like ice skater"
+    },
+    {
+      "id": "tuck_jump",
+      "filename": "tuck_jump.png",
+      "display_names": [
+        "Tuck Jump"
+      ],
+      "keywords": [
+        "cardio",
+        "tuck",
+        "jump",
+        "plyometric"
+      ],
+      "description": "person jumping with knees pulled up toward chest"
+    },
+    {
+      "id": "squat_jump",
+      "filename": "squat_jump.png",
+      "display_names": [
+        "Squat Jump"
+      ],
+      "keywords": [
+        "cardio",
+        "squat",
+        "jump",
+        "plyometric"
+      ],
+      "description": "person jumping explosively upward from squat position"
+    },
+    {
+      "id": "arm_circle",
+      "filename": "arm_circle.png",
+      "display_names": [
+        "Arm Circles",
+        "Arm Circle"
+      ],
+      "keywords": [
+        "warmup",
+        "mobility",
+        "arm",
+        "circle",
+        "shoulder"
+      ],
+      "description": "person standing with arms extended to sides making circular motions"
+    },
+    {
+      "id": "leg_swing",
+      "filename": "leg_swing.png",
+      "display_names": [
+        "Leg Swings",
+        "Leg Swing"
+      ],
+      "keywords": [
+        "warmup",
+        "mobility",
+        "leg",
+        "swing",
+        "hip"
+      ],
+      "description": "person standing on one leg, swinging other leg forward and back"
+    },
+    {
+      "id": "hip_circle",
+      "filename": "hip_circle.png",
+      "display_names": [
+        "Hip Circles",
+        "Hip Circle"
+      ],
+      "keywords": [
+        "warmup",
+        "mobility",
+        "hip",
+        "circle"
+      ],
+      "description": "person standing, rotating hips in circular motion"
+    },
+    {
+      "id": "cat_cow",
+      "filename": "cat_cow.png",
+      "display_names": [
+        "Cat-Cow Stretch",
+        "Cat Cow Stretch",
+        "CatCow Stretch",
+        "Cat Cow"
+      ],
+      "keywords": [
+        "warmup",
+        "mobility",
+        "cat",
+        "cow",
+        "spine"
+      ],
+      "description": "person on hands and knees, arching and rounding spine"
+    },
+    {
+      "id": "downward_dog",
+      "filename": "downward_dog.png",
+      "display_names": [
+        "Downward Dog"
+      ],
+      "keywords": [
+        "stretch",
+        "yoga",
+        "downward",
+        "dog",
+        "hamstrings"
+      ],
+      "description": "person in inverted V position, hands and feet on floor, hips high"
+    },
+    {
+      "id": "childs_pose",
+      "filename": "childs_pose.png",
+      "display_names": [
+        "Child's Pose",
+        "Childs Pose"
+      ],
+      "keywords": [
+        "stretch",
+        "yoga",
+        "child",
+        "pose",
+        "rest"
+      ],
+      "description": "person kneeling with arms extended forward, forehead on floor"
+    },
+    {
+      "id": "pigeon_pose",
+      "filename": "pigeon_pose.png",
+      "display_names": [
+        "Pigeon Pose"
+      ],
+      "keywords": [
+        "stretch",
+        "yoga",
+        "pigeon",
+        "hip",
+        "glute"
+      ],
+      "description": "person with one leg bent in front, other leg extended behind, torso upright"
+    },
+    {
+      "id": "worlds_greatest_stretch",
+      "filename": "worlds_greatest_stretch.png",
+      "display_names": [
+        "World's Greatest Stretch",
+        "Worlds Greatest Stretch"
+      ],
+      "keywords": [
+        "stretch",
+        "mobility",
+        "world",
+        "greatest",
+        "hip"
+      ],
+      "description": "person in deep lunge with one hand on floor, other arm reaching up"
+    },
+    {
+      "id": "foam_roll_back",
+      "filename": "foam_roll_back.png",
+      "display_names": [
+        "Foam Rolling Back",
+        "Foam Roll Back"
+      ],
+      "keywords": [
+        "recovery",
+        "foam",
+        "roll",
+        "back",
+        "mobility"
+      ],
+      "description": "person lying on foam roller positioned under upper back"
+    },
+    {
+      "id": "shoulder_stretch",
+      "filename": "shoulder_stretch.png",
+      "display_names": [
+        "Cross-Body Shoulder Stretch",
+        "Cross Body Shoulder Stretch",
+        "CrossBody Shoulder Stretch",
+        "Shoulder Stretch"
+      ],
+      "keywords": [
+        "stretch",
+        "shoulder",
+        "cross",
+        "body"
+      ],
+      "description": "person standing, one arm pulled across chest with other hand"
+    }
+  ]
+}
