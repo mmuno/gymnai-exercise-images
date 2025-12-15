@@ -350,7 +350,7 @@
         "dumbbell",
         "raise"
       ],
-      "video_filename": "Lateral_Dumbbell_Raise.mp4"
+      "video_filename": "lateral_raise.mp4"
     },
     {
       "description": "person standing, one arm raised straight in front to shoulder height",
@@ -1194,7 +1194,7 @@
         "machine",
         "aerobic"
       ],
-      "video_filename": "Rowing_Cardio.mp4"
+      "video_filename": "rowing.mp4"
     },
     {
       "description": "person jumping over rope, arms rotating rope handles",
