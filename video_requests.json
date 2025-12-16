@@ -19,6 +19,11 @@
       "exercise_name" : "Pull-ups",
       "requested_at" : "2025-12-16T00:21:27Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Dumbbell Lunges",
+      "requested_at" : "2025-12-16T00:30:49Z",
+      "status" : "pending"
     }
   ]
 }
