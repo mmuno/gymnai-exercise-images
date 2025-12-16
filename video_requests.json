@@ -9,6 +9,11 @@
       "exercise_name" : "Bench Press",
       "requested_at" : "2025-12-16T00:19:02Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Deadlift",
+      "requested_at" : "2025-12-16T00:20:16Z",
+      "status" : "pending"
     }
   ]
 }
