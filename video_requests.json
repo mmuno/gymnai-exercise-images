@@ -14,6 +14,11 @@
       "exercise_name" : "Deadlift",
       "requested_at" : "2025-12-16T00:20:16Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Pull-ups",
+      "requested_at" : "2025-12-16T00:21:27Z",
+      "status" : "pending"
     }
   ]
 }
