@@ -24,6 +24,11 @@
       "exercise_name" : "Dumbbell Lunges",
       "requested_at" : "2025-12-16T00:30:49Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Plank",
+      "requested_at" : "2025-12-16T00:32:31Z",
+      "status" : "pending"
     }
   ]
 }
