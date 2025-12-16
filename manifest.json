@@ -1577,9 +1577,21 @@
       "keywords" : [
         "stretching"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Bicep Curls exercise pose",
+      "display_names" : [
+        "Bicep Curls"
+      ],
+      "filename" : "bicep_curls.png",
+      "id" : "bicep_curls",
+      "keywords" : [
+        "curls",
+        "bicep"
+      ]
     }
   ],
-  "last_updated" : "2025-12-15T23:52:33Z",
+  "last_updated" : "2025-12-16T00:32:48Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
