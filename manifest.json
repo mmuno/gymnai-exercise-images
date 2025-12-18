@@ -1612,9 +1612,22 @@
         "light",
         "walking"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Walking cool-down exercise pose",
+      "display_names" : [
+        "Walking cool-down"
+      ],
+      "filename" : "walking_cool_down.png",
+      "id" : "walking_cool_down",
+      "keywords" : [
+        "walking",
+        "cool",
+        "down"
+      ]
     }
   ],
-  "last_updated" : "2025-12-17T20:49:54Z",
+  "last_updated" : "2025-12-18T18:02:55Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
