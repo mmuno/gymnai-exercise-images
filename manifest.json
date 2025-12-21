@@ -32,7 +32,8 @@
         "barbell",
         "bench",
         "press"
-      ]
+      ],
+      "video_filename" : "bench_press.mp4"
     },
     {
       "description" : "person on inclined bench at 45 degrees, pressing dumbbells upward",
@@ -113,7 +114,8 @@
         "cable",
         "crossover",
         "fly"
-      ]
+      ],
+      "video_filename" : "cable_crossover.mp4"
     },
     {
       "description" : "person on parallel bars, body leaning forward, arms bent at 90 degrees",
@@ -207,7 +209,8 @@
         "row",
         "barbell",
         "bent"
-      ]
+      ],
+      "video_filename" : "bent_over_row.mp4"
     },
     {
       "description" : "person seated on rowing machine, pulling cable handle toward abdomen",
@@ -271,7 +274,8 @@
         "barbell",
         "compound",
         "deadlift"
-      ]
+      ],
+      "video_filename" : "deadlifts.mp4"
     },
     {
       "description" : "person pulling barbell from rack at knee height to standing position",
@@ -395,7 +399,8 @@
         "press",
         "arnold",
         "dumbbell"
-      ]
+      ],
+      "video_filename" : "arnold_press.mp4"
     },
     {
       "description" : "person standing, pulling barbell up to chin level, elbows pointing outward",
@@ -489,7 +494,8 @@
         "curl",
         "dumbbell",
         "arm"
-      ]
+      ],
+      "video_filename" : "bicep_curl.mp4"
     },
     {
       "description" : "person standing, curling dumbbells with palms facing each other",
@@ -618,7 +624,8 @@
         "curl",
         "cable",
         "arm"
-      ]
+      ],
+      "video_filename" : "cable_curl.mp4"
     },
     {
       "description" : "person in deep squat position with barbell across upper back",
@@ -636,7 +643,8 @@
         "squat",
         "barbell",
         "compound"
-      ]
+      ],
+      "video_filename" : "squat.mp4"
     },
     {
       "description" : "person in squat position with barbell resting on front shoulders",
@@ -710,7 +718,8 @@
         "bulgarian",
         "split",
         "squat"
-      ]
+      ],
+      "video_filename" : "bulgarian_split_squat.mp4"
     },
     {
       "description" : "person seated on leg press machine, legs extended pushing platform",
@@ -905,7 +914,8 @@
         "crunch",
         "bicycle",
         "obliques"
-      ]
+      ],
+      "video_filename" : "bicycle_crunch.mp4"
     },
     {
       "description" : "person seated with torso leaned back, rotating side to side holding weight",
@@ -977,7 +987,8 @@
         "back",
         "bird",
         "dog"
-      ]
+      ],
+      "video_filename" : "bird_dog.mp4"
     },
     {
       "description" : "person lying on back, arms and legs raised slightly off floor, lower back pressed down",
@@ -1006,7 +1017,8 @@
         "burpee",
         "cardio",
         "compound"
-      ]
+      ],
+      "video_filename" : "burpee.mp4"
     },
     {
       "description" : "person standing with barbell pressed overhead after lifting from floor",
@@ -1121,7 +1133,8 @@
         "battle",
         "rope",
         "cardio"
-      ]
+      ],
+      "video_filename" : "battle_rope.mp4"
     },
     {
       "description" : "person jumping onto elevated box platform with both feet",
@@ -1135,7 +1148,8 @@
         "plyometric",
         "box",
         "jump"
-      ]
+      ],
+      "video_filename" : "box_jump.mp4"
     },
     {
       "description" : "person raising medicine ball overhead then slamming down to floor",
@@ -1381,7 +1395,8 @@
         "arm",
         "circle",
         "shoulder"
-      ]
+      ],
+      "video_filename" : "arm_circle.mp4"
     },
     {
       "description" : "person standing on one leg, swinging other leg forward and back",
@@ -1627,7 +1642,7 @@
       ]
     }
   ],
-  "last_updated" : "2025-12-18T18:02:55Z",
+  "last_updated" : "2025-12-21T20:45:00Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
