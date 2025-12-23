@@ -1641,9 +1641,24 @@
         "cool",
         "down"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Treadmill brisk walk \/ easy jog exercise pose",
+      "display_names" : [
+        "Treadmill brisk walk \/ easy jog"
+      ],
+      "filename" : "treadmill_brisk_walk_\/_easy_jog.png",
+      "id" : "treadmill_brisk_walk_\/_easy_jog",
+      "keywords" : [
+        "brisk",
+        "easy",
+        "treadmill",
+        "walk",
+        "jog"
+      ]
     }
   ],
-  "last_updated" : "2025-12-22T03:30:00Z",
+  "last_updated" : "2025-12-23T01:19:48Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
