@@ -1656,9 +1656,22 @@
         "walk",
         "jog"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Brisk march in place exercise pose",
+      "display_names" : [
+        "Brisk march in place"
+      ],
+      "filename" : "brisk_march_in_place.png",
+      "id" : "brisk_march_in_place",
+      "keywords" : [
+        "march",
+        "brisk",
+        "place"
+      ]
     }
   ],
-  "last_updated" : "2025-12-23T01:19:48Z",
+  "last_updated" : "2025-12-29T01:01:57Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
