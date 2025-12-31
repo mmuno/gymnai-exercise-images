@@ -19,6 +19,11 @@
       "exercise_name" : "Romanian Deadlift (Dumbbells)",
       "requested_at" : "2025-12-30T17:35:30Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Yoga",
+      "requested_at" : "2025-12-31T04:24:43Z",
+      "status" : "pending"
     }
   ]
 }
