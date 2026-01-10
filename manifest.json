@@ -1743,9 +1743,20 @@
         "rdl",
         "dumbbell"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Abductor exercise pose",
+      "display_names" : [
+        "Abductor"
+      ],
+      "filename" : "abductor.png",
+      "id" : "abductor",
+      "keywords" : [
+        "abductor"
+      ]
     }
   ],
-  "last_updated" : "2026-01-07T17:56:12Z",
+  "last_updated" : "2026-01-10T01:24:45Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
