@@ -1656,9 +1656,752 @@
         "walk",
         "jog"
       ]
+    },
+    {
+      "description" : "person seated on machine, legs together pushing pads outward",
+      "display_names" : [
+        "Hip Abductor Machine",
+        "Hip Abductor",
+        "Abductor Machine"
+      ],
+      "filename" : "hip_abductor.png",
+      "id" : "hip_abductor",
+      "keywords" : [
+        "legs",
+        "glutes",
+        "abductor",
+        "machine",
+        "hip"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on machine, legs apart pushing pads inward",
+      "display_names" : [
+        "Hip Adductor Machine",
+        "Hip Adductor",
+        "Adductor Machine"
+      ],
+      "filename" : "hip_adductor.png",
+      "id" : "hip_adductor",
+      "keywords" : [
+        "legs",
+        "adductor",
+        "machine",
+        "hip",
+        "inner thigh"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on machine, curling legs toward buttocks",
+      "display_names" : [
+        "Seated Leg Curl",
+        "Seated Hamstring Curl"
+      ],
+      "filename" : "seated_leg_curl.png",
+      "id" : "seated_leg_curl",
+      "keywords" : [
+        "legs",
+        "hamstrings",
+        "curl",
+        "machine",
+        "seated"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person lying on declined bench pressing barbell upward",
+      "display_names" : [
+        "Decline Bench Press",
+        "Decline Barbell Press"
+      ],
+      "filename" : "decline_bench_press.png",
+      "id" : "decline_bench_press",
+      "keywords" : [
+        "chest",
+        "decline",
+        "bench",
+        "press",
+        "barbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person lying on declined bench pressing dumbbells upward",
+      "display_names" : [
+        "Decline Dumbbell Press",
+        "Decline DB Press"
+      ],
+      "filename" : "decline_dumbbell_press.png",
+      "id" : "decline_dumbbell_press",
+      "keywords" : [
+        "chest",
+        "decline",
+        "dumbbell",
+        "press"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on chest press machine, pushing handles forward",
+      "display_names" : [
+        "Machine Chest Press",
+        "Chest Press Machine",
+        "Seated Chest Press"
+      ],
+      "filename" : "machine_chest_press.png",
+      "id" : "machine_chest_press",
+      "keywords" : [
+        "chest",
+        "press",
+        "machine",
+        "seated"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on pec deck machine, bringing padded arms together in front",
+      "display_names" : [
+        "Pec Deck",
+        "Pec Deck Fly",
+        "Machine Fly"
+      ],
+      "filename" : "pec_deck.png",
+      "id" : "pec_deck",
+      "keywords" : [
+        "chest",
+        "pec",
+        "deck",
+        "fly",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on machine, pressing handles overhead",
+      "display_names" : [
+        "Machine Shoulder Press",
+        "Shoulder Press Machine",
+        "Seated Machine Press"
+      ],
+      "filename" : "machine_shoulder_press.png",
+      "id" : "machine_shoulder_press",
+      "keywords" : [
+        "shoulder",
+        "press",
+        "machine",
+        "seated"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on reverse pec deck machine, arms moving backward",
+      "display_names" : [
+        "Reverse Pec Deck",
+        "Rear Delt Machine",
+        "Reverse Fly Machine"
+      ],
+      "filename" : "reverse_pec_deck.png",
+      "id" : "reverse_pec_deck",
+      "keywords" : [
+        "shoulder",
+        "rear",
+        "delt",
+        "pec",
+        "deck",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on hack squat machine, legs pressing platform at angle",
+      "display_names" : [
+        "Hack Squat",
+        "Hack Squat Machine"
+      ],
+      "filename" : "hack_squat.png",
+      "id" : "hack_squat",
+      "keywords" : [
+        "legs",
+        "quads",
+        "hack",
+        "squat",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person in smith machine performing squat with barbell on guided rails",
+      "display_names" : [
+        "Smith Machine Squat",
+        "Smith Squat"
+      ],
+      "filename" : "smith_machine_squat.png",
+      "id" : "smith_machine_squat",
+      "keywords" : [
+        "legs",
+        "quads",
+        "smith",
+        "machine",
+        "squat"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on calf raise machine, raising heels with knees bent",
+      "display_names" : [
+        "Seated Calf Raise",
+        "Seated Calf Machine"
+      ],
+      "filename" : "seated_calf_raise.png",
+      "id" : "seated_calf_raise",
+      "keywords" : [
+        "legs",
+        "calves",
+        "calf",
+        "raise",
+        "seated",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person bent over T-bar, pulling weighted end toward chest",
+      "display_names" : [
+        "T-Bar Row",
+        "T Bar Row"
+      ],
+      "filename" : "t_bar_row.png",
+      "id" : "t_bar_row",
+      "keywords" : [
+        "back",
+        "row",
+        "t-bar",
+        "barbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated at lat pulldown with wide overhand grip",
+      "display_names" : [
+        "Wide-Grip Lat Pulldown",
+        "Wide Grip Lat Pulldown",
+        "Wide Grip Pulldown"
+      ],
+      "filename" : "wide_grip_lat_pulldown.png",
+      "id" : "wide_grip_lat_pulldown",
+      "keywords" : [
+        "back",
+        "lats",
+        "pulldown",
+        "wide",
+        "grip"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated at lat pulldown with narrow underhand grip",
+      "display_names" : [
+        "Close-Grip Lat Pulldown",
+        "Close Grip Lat Pulldown",
+        "Close Grip Pulldown"
+      ],
+      "filename" : "close_grip_lat_pulldown.png",
+      "id" : "close_grip_lat_pulldown",
+      "keywords" : [
+        "back",
+        "lats",
+        "pulldown",
+        "close",
+        "grip"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person lying chest down on incline bench, rowing dumbbells",
+      "display_names" : [
+        "Chest Supported Row",
+        "Incline Dumbbell Row",
+        "Seal Row"
+      ],
+      "filename" : "chest_supported_row.png",
+      "id" : "chest_supported_row",
+      "keywords" : [
+        "back",
+        "row",
+        "chest",
+        "supported",
+        "dumbbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person lying on flat bench pressing dumbbells upward",
+      "display_names" : [
+        "Dumbbell Bench Press",
+        "Flat Dumbbell Press",
+        "DB Bench Press"
+      ],
+      "filename" : "dumbbell_bench_press.png",
+      "id" : "dumbbell_bench_press",
+      "keywords" : [
+        "chest",
+        "dumbbell",
+        "bench",
+        "press",
+        "flat"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on glute kickback machine, extending leg backward",
+      "display_names" : [
+        "Glute Kickback Machine",
+        "Glute Machine",
+        "Kickback Machine"
+      ],
+      "filename" : "glute_kickback_machine.png",
+      "id" : "glute_kickback_machine",
+      "keywords" : [
+        "legs",
+        "glutes",
+        "kickback",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person at low cable, pulling through legs with hips hinging",
+      "display_names" : [
+        "Cable Pull-Through",
+        "Cable Pull Through"
+      ],
+      "filename" : "cable_pull_through.png",
+      "id" : "cable_pull_through",
+      "keywords" : [
+        "legs",
+        "glutes",
+        "hamstrings",
+        "cable",
+        "pull",
+        "through"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing with barbell on back, hinging forward at hips",
+      "display_names" : [
+        "Good Morning",
+        "Good Mornings"
+      ],
+      "filename" : "good_morning.png",
+      "id" : "good_morning",
+      "keywords" : [
+        "legs",
+        "hamstrings",
+        "back",
+        "good",
+        "morning",
+        "barbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person kneeling, lowering torso forward with controlled eccentric",
+      "display_names" : [
+        "Nordic Curl",
+        "Nordic Hamstring Curl"
+      ],
+      "filename" : "nordic_curl.png",
+      "id" : "nordic_curl",
+      "keywords" : [
+        "legs",
+        "hamstrings",
+        "nordic",
+        "curl",
+        "bodyweight"
+      ],
+      "exercise_type" : "bodyweight"
+    },
+    {
+      "description" : "person standing inside trap bar, lifting bar from floor",
+      "display_names" : [
+        "Trap Bar Deadlift",
+        "Hex Bar Deadlift"
+      ],
+      "filename" : "trap_bar_deadlift.png",
+      "id" : "trap_bar_deadlift",
+      "keywords" : [
+        "legs",
+        "back",
+        "deadlift",
+        "trap",
+        "bar",
+        "hex"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person hanging from bar with underhand grip, pulling chin above bar",
+      "display_names" : [
+        "Chin-Up",
+        "Chin Up",
+        "ChinUp"
+      ],
+      "filename" : "chin_up.png",
+      "id" : "chin_up",
+      "keywords" : [
+        "back",
+        "biceps",
+        "pull",
+        "chin",
+        "bodyweight"
+      ],
+      "exercise_type" : "bodyweight"
+    },
+    {
+      "description" : "person at cable machine performing fly motion with arms crossing low to high",
+      "display_names" : [
+        "Low to High Cable Fly",
+        "Low Cable Fly",
+        "Incline Cable Fly"
+      ],
+      "filename" : "low_to_high_cable_fly.png",
+      "id" : "low_to_high_cable_fly",
+      "keywords" : [
+        "chest",
+        "cable",
+        "fly",
+        "low",
+        "high"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person at cable machine performing fly motion with arms crossing high to low",
+      "display_names" : [
+        "High to Low Cable Fly",
+        "High Cable Fly",
+        "Decline Cable Fly"
+      ],
+      "filename" : "high_to_low_cable_fly.png",
+      "id" : "high_to_low_cable_fly",
+      "keywords" : [
+        "chest",
+        "cable",
+        "fly",
+        "high",
+        "low"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on machine pulling handles toward chest",
+      "display_names" : [
+        "Machine Row",
+        "Seated Machine Row",
+        "Row Machine"
+      ],
+      "filename" : "machine_row.png",
+      "id" : "machine_row",
+      "keywords" : [
+        "back",
+        "row",
+        "machine",
+        "seated"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on assisted dip/pull-up machine, performing pull-up motion",
+      "display_names" : [
+        "Assisted Pull-Up",
+        "Assisted Pull Up",
+        "Assisted Pullup"
+      ],
+      "filename" : "assisted_pull_up.png",
+      "id" : "assisted_pull_up",
+      "keywords" : [
+        "back",
+        "assisted",
+        "pull",
+        "up",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on assisted dip/pull-up machine, performing dip motion",
+      "display_names" : [
+        "Assisted Dip",
+        "Machine Dip"
+      ],
+      "filename" : "assisted_dip.png",
+      "id" : "assisted_dip",
+      "keywords" : [
+        "triceps",
+        "chest",
+        "assisted",
+        "dip",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing at cable, curling EZ bar attachment upward",
+      "display_names" : [
+        "Cable EZ Bar Curl",
+        "EZ Bar Cable Curl"
+      ],
+      "filename" : "cable_ez_bar_curl.png",
+      "id" : "cable_ez_bar_curl",
+      "keywords" : [
+        "biceps",
+        "curl",
+        "cable",
+        "ez",
+        "bar"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person at cable station, pulling rope overhead with arms extending",
+      "display_names" : [
+        "Cable Overhead Tricep Extension",
+        "Overhead Cable Extension"
+      ],
+      "filename" : "cable_overhead_tricep_extension.png",
+      "id" : "cable_overhead_tricep_extension",
+      "keywords" : [
+        "triceps",
+        "cable",
+        "overhead",
+        "extension"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person at cable, kicking leg backward against resistance",
+      "display_names" : [
+        "Cable Kickback",
+        "Cable Glute Kickback"
+      ],
+      "filename" : "cable_kickback.png",
+      "id" : "cable_kickback",
+      "keywords" : [
+        "legs",
+        "glutes",
+        "cable",
+        "kickback"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated on preacher curl machine, curling handles upward",
+      "display_names" : [
+        "Machine Preacher Curl",
+        "Preacher Curl Machine"
+      ],
+      "filename" : "machine_preacher_curl.png",
+      "id" : "machine_preacher_curl",
+      "keywords" : [
+        "biceps",
+        "preacher",
+        "curl",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing at calf raise machine, rising up on toes",
+      "display_names" : [
+        "Machine Calf Raise",
+        "Standing Calf Raise Machine"
+      ],
+      "filename" : "machine_calf_raise.png",
+      "id" : "machine_calf_raise",
+      "keywords" : [
+        "legs",
+        "calves",
+        "calf",
+        "raise",
+        "machine",
+        "standing"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing curling barbell with EZ curl bar",
+      "display_names" : [
+        "EZ Bar Curl",
+        "EZ Curl"
+      ],
+      "filename" : "ez_bar_curl.png",
+      "id" : "ez_bar_curl",
+      "keywords" : [
+        "biceps",
+        "curl",
+        "ez",
+        "bar"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing curling barbell with straight bar",
+      "display_names" : [
+        "Barbell Curl",
+        "BB Curl",
+        "Standing Barbell Curl"
+      ],
+      "filename" : "barbell_curl.png",
+      "id" : "barbell_curl",
+      "keywords" : [
+        "biceps",
+        "curl",
+        "barbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person seated pressing dumbbells overhead",
+      "display_names" : [
+        "Seated Dumbbell Press",
+        "Seated DB Press",
+        "Dumbbell Shoulder Press"
+      ],
+      "filename" : "seated_dumbbell_press.png",
+      "id" : "seated_dumbbell_press",
+      "keywords" : [
+        "shoulder",
+        "press",
+        "dumbbell",
+        "seated"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing pressing dumbbell overhead with one arm",
+      "display_names" : [
+        "Single-Arm Dumbbell Press",
+        "Single Arm DB Press",
+        "One Arm Dumbbell Press"
+      ],
+      "filename" : "single_arm_dumbbell_press.png",
+      "id" : "single_arm_dumbbell_press",
+      "keywords" : [
+        "shoulder",
+        "press",
+        "dumbbell",
+        "single",
+        "arm"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on incline bench performing fly motion with dumbbells",
+      "display_names" : [
+        "Incline Dumbbell Fly",
+        "Incline DB Fly"
+      ],
+      "filename" : "incline_dumbbell_fly.png",
+      "id" : "incline_dumbbell_fly",
+      "keywords" : [
+        "chest",
+        "fly",
+        "incline",
+        "dumbbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing at rope attachment, pulling rope apart at face level",
+      "display_names" : [
+        "Rope Face Pull",
+        "Cable Face Pull"
+      ],
+      "filename" : "rope_face_pull.png",
+      "id" : "rope_face_pull",
+      "keywords" : [
+        "shoulder",
+        "rear",
+        "delt",
+        "face",
+        "pull",
+        "rope",
+        "cable"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person standing with dumbbell in one hand, shrugging shoulder upward",
+      "display_names" : [
+        "Dumbbell Shrug",
+        "DB Shrug"
+      ],
+      "filename" : "dumbbell_shrug.png",
+      "id" : "dumbbell_shrug",
+      "keywords" : [
+        "shoulder",
+        "traps",
+        "shrug",
+        "dumbbell"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on V-squat machine, pressing platform at angle",
+      "display_names" : [
+        "V-Squat Machine",
+        "V Squat",
+        "Pendulum Squat"
+      ],
+      "filename" : "v_squat.png",
+      "id" : "v_squat",
+      "keywords" : [
+        "legs",
+        "quads",
+        "v",
+        "squat",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on belt squat machine, squatting with weight attached to belt",
+      "display_names" : [
+        "Belt Squat",
+        "Belt Squat Machine"
+      ],
+      "filename" : "belt_squat.png",
+      "id" : "belt_squat",
+      "keywords" : [
+        "legs",
+        "quads",
+        "belt",
+        "squat",
+        "machine"
+      ],
+      "exercise_type" : "weighted"
+    },
+    {
+      "description" : "person on sissy squat bench, leaning back with knees bending forward",
+      "display_names" : [
+        "Sissy Squat",
+        "Sissy Squat Machine"
+      ],
+      "filename" : "sissy_squat.png",
+      "id" : "sissy_squat",
+      "keywords" : [
+        "legs",
+        "quads",
+        "sissy",
+        "squat"
+      ],
+      "exercise_type" : "bodyweight"
     }
   ],
-  "last_updated" : "2025-12-23T01:19:48Z",
+  "last_updated" : "2026-01-10T12:00:00Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
