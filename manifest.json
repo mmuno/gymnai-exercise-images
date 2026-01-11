@@ -1664,6 +1664,7 @@
         "Hip Abductor",
         "Abductor Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "hip_abductor.png",
       "id" : "hip_abductor",
       "keywords" : [
@@ -1672,8 +1673,7 @@
         "abductor",
         "machine",
         "hip"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on machine, legs apart pushing pads inward",
@@ -1682,6 +1682,7 @@
         "Hip Adductor",
         "Adductor Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "hip_adductor.png",
       "id" : "hip_adductor",
       "keywords" : [
@@ -1690,8 +1691,7 @@
         "machine",
         "hip",
         "inner thigh"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on machine, curling legs toward buttocks",
@@ -1699,6 +1699,7 @@
         "Seated Leg Curl",
         "Seated Hamstring Curl"
       ],
+      "exercise_type" : "weighted",
       "filename" : "seated_leg_curl.png",
       "id" : "seated_leg_curl",
       "keywords" : [
@@ -1707,8 +1708,7 @@
         "curl",
         "machine",
         "seated"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person lying on declined bench pressing barbell upward",
@@ -1716,6 +1716,7 @@
         "Decline Bench Press",
         "Decline Barbell Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "decline_bench_press.png",
       "id" : "decline_bench_press",
       "keywords" : [
@@ -1724,8 +1725,7 @@
         "bench",
         "press",
         "barbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person lying on declined bench pressing dumbbells upward",
@@ -1733,6 +1733,7 @@
         "Decline Dumbbell Press",
         "Decline DB Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "decline_dumbbell_press.png",
       "id" : "decline_dumbbell_press",
       "keywords" : [
@@ -1740,8 +1741,7 @@
         "decline",
         "dumbbell",
         "press"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on chest press machine, pushing handles forward",
@@ -1750,6 +1750,7 @@
         "Chest Press Machine",
         "Seated Chest Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "machine_chest_press.png",
       "id" : "machine_chest_press",
       "keywords" : [
@@ -1757,8 +1758,7 @@
         "press",
         "machine",
         "seated"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on pec deck machine, bringing padded arms together in front",
@@ -1767,6 +1767,7 @@
         "Pec Deck Fly",
         "Machine Fly"
       ],
+      "exercise_type" : "weighted",
       "filename" : "pec_deck.png",
       "id" : "pec_deck",
       "keywords" : [
@@ -1775,8 +1776,7 @@
         "deck",
         "fly",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on machine, pressing handles overhead",
@@ -1785,6 +1785,7 @@
         "Shoulder Press Machine",
         "Seated Machine Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "machine_shoulder_press.png",
       "id" : "machine_shoulder_press",
       "keywords" : [
@@ -1792,8 +1793,7 @@
         "press",
         "machine",
         "seated"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on reverse pec deck machine, arms moving backward",
@@ -1802,6 +1802,7 @@
         "Rear Delt Machine",
         "Reverse Fly Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "reverse_pec_deck.png",
       "id" : "reverse_pec_deck",
       "keywords" : [
@@ -1811,8 +1812,7 @@
         "pec",
         "deck",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person on hack squat machine, legs pressing platform at angle",
@@ -1820,6 +1820,7 @@
         "Hack Squat",
         "Hack Squat Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "hack_squat.png",
       "id" : "hack_squat",
       "keywords" : [
@@ -1828,8 +1829,7 @@
         "hack",
         "squat",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person in smith machine performing squat with barbell on guided rails",
@@ -1837,6 +1837,7 @@
         "Smith Machine Squat",
         "Smith Squat"
       ],
+      "exercise_type" : "weighted",
       "filename" : "smith_machine_squat.png",
       "id" : "smith_machine_squat",
       "keywords" : [
@@ -1845,8 +1846,7 @@
         "smith",
         "machine",
         "squat"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on calf raise machine, raising heels with knees bent",
@@ -1854,6 +1854,7 @@
         "Seated Calf Raise",
         "Seated Calf Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "seated_calf_raise.png",
       "id" : "seated_calf_raise",
       "keywords" : [
@@ -1863,8 +1864,7 @@
         "raise",
         "seated",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person bent over T-bar, pulling weighted end toward chest",
@@ -1872,6 +1872,7 @@
         "T-Bar Row",
         "T Bar Row"
       ],
+      "exercise_type" : "weighted",
       "filename" : "t_bar_row.png",
       "id" : "t_bar_row",
       "keywords" : [
@@ -1879,8 +1880,7 @@
         "row",
         "t-bar",
         "barbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated at lat pulldown with wide overhand grip",
@@ -1889,6 +1889,7 @@
         "Wide Grip Lat Pulldown",
         "Wide Grip Pulldown"
       ],
+      "exercise_type" : "weighted",
       "filename" : "wide_grip_lat_pulldown.png",
       "id" : "wide_grip_lat_pulldown",
       "keywords" : [
@@ -1897,8 +1898,7 @@
         "pulldown",
         "wide",
         "grip"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated at lat pulldown with narrow underhand grip",
@@ -1907,6 +1907,7 @@
         "Close Grip Lat Pulldown",
         "Close Grip Pulldown"
       ],
+      "exercise_type" : "weighted",
       "filename" : "close_grip_lat_pulldown.png",
       "id" : "close_grip_lat_pulldown",
       "keywords" : [
@@ -1915,8 +1916,7 @@
         "pulldown",
         "close",
         "grip"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person lying chest down on incline bench, rowing dumbbells",
@@ -1925,6 +1925,7 @@
         "Incline Dumbbell Row",
         "Seal Row"
       ],
+      "exercise_type" : "weighted",
       "filename" : "chest_supported_row.png",
       "id" : "chest_supported_row",
       "keywords" : [
@@ -1933,8 +1934,7 @@
         "chest",
         "supported",
         "dumbbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person lying on flat bench pressing dumbbells upward",
@@ -1943,6 +1943,7 @@
         "Flat Dumbbell Press",
         "DB Bench Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "dumbbell_bench_press.png",
       "id" : "dumbbell_bench_press",
       "keywords" : [
@@ -1951,8 +1952,7 @@
         "bench",
         "press",
         "flat"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person on glute kickback machine, extending leg backward",
@@ -1961,6 +1961,7 @@
         "Glute Machine",
         "Kickback Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "glute_kickback_machine.png",
       "id" : "glute_kickback_machine",
       "keywords" : [
@@ -1968,8 +1969,7 @@
         "glutes",
         "kickback",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person at low cable, pulling through legs with hips hinging",
@@ -1977,6 +1977,7 @@
         "Cable Pull-Through",
         "Cable Pull Through"
       ],
+      "exercise_type" : "weighted",
       "filename" : "cable_pull_through.png",
       "id" : "cable_pull_through",
       "keywords" : [
@@ -1986,8 +1987,7 @@
         "cable",
         "pull",
         "through"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing with barbell on back, hinging forward at hips",
@@ -1995,6 +1995,7 @@
         "Good Morning",
         "Good Mornings"
       ],
+      "exercise_type" : "weighted",
       "filename" : "good_morning.png",
       "id" : "good_morning",
       "keywords" : [
@@ -2004,8 +2005,7 @@
         "good",
         "morning",
         "barbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person kneeling, lowering torso forward with controlled eccentric",
@@ -2013,6 +2013,7 @@
         "Nordic Curl",
         "Nordic Hamstring Curl"
       ],
+      "exercise_type" : "bodyweight",
       "filename" : "nordic_curl.png",
       "id" : "nordic_curl",
       "keywords" : [
@@ -2021,8 +2022,7 @@
         "nordic",
         "curl",
         "bodyweight"
-      ],
-      "exercise_type" : "bodyweight"
+      ]
     },
     {
       "description" : "person standing inside trap bar, lifting bar from floor",
@@ -2030,6 +2030,7 @@
         "Trap Bar Deadlift",
         "Hex Bar Deadlift"
       ],
+      "exercise_type" : "weighted",
       "filename" : "trap_bar_deadlift.png",
       "id" : "trap_bar_deadlift",
       "keywords" : [
@@ -2039,8 +2040,7 @@
         "trap",
         "bar",
         "hex"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person hanging from bar with underhand grip, pulling chin above bar",
@@ -2049,6 +2049,7 @@
         "Chin Up",
         "ChinUp"
       ],
+      "exercise_type" : "bodyweight",
       "filename" : "chin_up.png",
       "id" : "chin_up",
       "keywords" : [
@@ -2057,8 +2058,7 @@
         "pull",
         "chin",
         "bodyweight"
-      ],
-      "exercise_type" : "bodyweight"
+      ]
     },
     {
       "description" : "person at cable machine performing fly motion with arms crossing low to high",
@@ -2067,6 +2067,7 @@
         "Low Cable Fly",
         "Incline Cable Fly"
       ],
+      "exercise_type" : "weighted",
       "filename" : "low_to_high_cable_fly.png",
       "id" : "low_to_high_cable_fly",
       "keywords" : [
@@ -2075,8 +2076,7 @@
         "fly",
         "low",
         "high"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person at cable machine performing fly motion with arms crossing high to low",
@@ -2085,6 +2085,7 @@
         "High Cable Fly",
         "Decline Cable Fly"
       ],
+      "exercise_type" : "weighted",
       "filename" : "high_to_low_cable_fly.png",
       "id" : "high_to_low_cable_fly",
       "keywords" : [
@@ -2093,8 +2094,7 @@
         "fly",
         "high",
         "low"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on machine pulling handles toward chest",
@@ -2103,6 +2103,7 @@
         "Seated Machine Row",
         "Row Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "machine_row.png",
       "id" : "machine_row",
       "keywords" : [
@@ -2110,16 +2111,16 @@
         "row",
         "machine",
         "seated"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
-      "description" : "person on assisted dip/pull-up machine, performing pull-up motion",
+      "description" : "person on assisted dip\/pull-up machine, performing pull-up motion",
       "display_names" : [
         "Assisted Pull-Up",
         "Assisted Pull Up",
         "Assisted Pullup"
       ],
+      "exercise_type" : "weighted",
       "filename" : "assisted_pull_up.png",
       "id" : "assisted_pull_up",
       "keywords" : [
@@ -2128,15 +2129,15 @@
         "pull",
         "up",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
-      "description" : "person on assisted dip/pull-up machine, performing dip motion",
+      "description" : "person on assisted dip\/pull-up machine, performing dip motion",
       "display_names" : [
         "Assisted Dip",
         "Machine Dip"
       ],
+      "exercise_type" : "weighted",
       "filename" : "assisted_dip.png",
       "id" : "assisted_dip",
       "keywords" : [
@@ -2145,8 +2146,7 @@
         "assisted",
         "dip",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing at cable, curling EZ bar attachment upward",
@@ -2154,6 +2154,7 @@
         "Cable EZ Bar Curl",
         "EZ Bar Cable Curl"
       ],
+      "exercise_type" : "weighted",
       "filename" : "cable_ez_bar_curl.png",
       "id" : "cable_ez_bar_curl",
       "keywords" : [
@@ -2162,8 +2163,7 @@
         "cable",
         "ez",
         "bar"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person at cable station, pulling rope overhead with arms extending",
@@ -2171,6 +2171,7 @@
         "Cable Overhead Tricep Extension",
         "Overhead Cable Extension"
       ],
+      "exercise_type" : "weighted",
       "filename" : "cable_overhead_tricep_extension.png",
       "id" : "cable_overhead_tricep_extension",
       "keywords" : [
@@ -2178,8 +2179,7 @@
         "cable",
         "overhead",
         "extension"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person at cable, kicking leg backward against resistance",
@@ -2187,6 +2187,7 @@
         "Cable Kickback",
         "Cable Glute Kickback"
       ],
+      "exercise_type" : "weighted",
       "filename" : "cable_kickback.png",
       "id" : "cable_kickback",
       "keywords" : [
@@ -2194,8 +2195,7 @@
         "glutes",
         "cable",
         "kickback"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated on preacher curl machine, curling handles upward",
@@ -2203,6 +2203,7 @@
         "Machine Preacher Curl",
         "Preacher Curl Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "machine_preacher_curl.png",
       "id" : "machine_preacher_curl",
       "keywords" : [
@@ -2210,8 +2211,7 @@
         "preacher",
         "curl",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing at calf raise machine, rising up on toes",
@@ -2219,6 +2219,7 @@
         "Machine Calf Raise",
         "Standing Calf Raise Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "machine_calf_raise.png",
       "id" : "machine_calf_raise",
       "keywords" : [
@@ -2228,8 +2229,7 @@
         "raise",
         "machine",
         "standing"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing curling barbell with EZ curl bar",
@@ -2237,6 +2237,7 @@
         "EZ Bar Curl",
         "EZ Curl"
       ],
+      "exercise_type" : "weighted",
       "filename" : "ez_bar_curl.png",
       "id" : "ez_bar_curl",
       "keywords" : [
@@ -2244,8 +2245,7 @@
         "curl",
         "ez",
         "bar"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing curling barbell with straight bar",
@@ -2254,14 +2254,14 @@
         "BB Curl",
         "Standing Barbell Curl"
       ],
+      "exercise_type" : "weighted",
       "filename" : "barbell_curl.png",
       "id" : "barbell_curl",
       "keywords" : [
         "biceps",
         "curl",
         "barbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person seated pressing dumbbells overhead",
@@ -2270,6 +2270,7 @@
         "Seated DB Press",
         "Dumbbell Shoulder Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "seated_dumbbell_press.png",
       "id" : "seated_dumbbell_press",
       "keywords" : [
@@ -2277,8 +2278,7 @@
         "press",
         "dumbbell",
         "seated"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing pressing dumbbell overhead with one arm",
@@ -2287,6 +2287,7 @@
         "Single Arm DB Press",
         "One Arm Dumbbell Press"
       ],
+      "exercise_type" : "weighted",
       "filename" : "single_arm_dumbbell_press.png",
       "id" : "single_arm_dumbbell_press",
       "keywords" : [
@@ -2295,8 +2296,7 @@
         "dumbbell",
         "single",
         "arm"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person on incline bench performing fly motion with dumbbells",
@@ -2304,6 +2304,7 @@
         "Incline Dumbbell Fly",
         "Incline DB Fly"
       ],
+      "exercise_type" : "weighted",
       "filename" : "incline_dumbbell_fly.png",
       "id" : "incline_dumbbell_fly",
       "keywords" : [
@@ -2311,8 +2312,7 @@
         "fly",
         "incline",
         "dumbbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing at rope attachment, pulling rope apart at face level",
@@ -2320,6 +2320,7 @@
         "Rope Face Pull",
         "Cable Face Pull"
       ],
+      "exercise_type" : "weighted",
       "filename" : "rope_face_pull.png",
       "id" : "rope_face_pull",
       "keywords" : [
@@ -2330,8 +2331,7 @@
         "pull",
         "rope",
         "cable"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person standing with dumbbell in one hand, shrugging shoulder upward",
@@ -2339,6 +2339,7 @@
         "Dumbbell Shrug",
         "DB Shrug"
       ],
+      "exercise_type" : "weighted",
       "filename" : "dumbbell_shrug.png",
       "id" : "dumbbell_shrug",
       "keywords" : [
@@ -2346,8 +2347,7 @@
         "traps",
         "shrug",
         "dumbbell"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person on V-squat machine, pressing platform at angle",
@@ -2356,6 +2356,7 @@
         "V Squat",
         "Pendulum Squat"
       ],
+      "exercise_type" : "weighted",
       "filename" : "v_squat.png",
       "id" : "v_squat",
       "keywords" : [
@@ -2364,8 +2365,7 @@
         "v",
         "squat",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person on belt squat machine, squatting with weight attached to belt",
@@ -2373,6 +2373,7 @@
         "Belt Squat",
         "Belt Squat Machine"
       ],
+      "exercise_type" : "weighted",
       "filename" : "belt_squat.png",
       "id" : "belt_squat",
       "keywords" : [
@@ -2381,8 +2382,7 @@
         "belt",
         "squat",
         "machine"
-      ],
-      "exercise_type" : "weighted"
+      ]
     },
     {
       "description" : "person on sissy squat bench, leaning back with knees bending forward",
@@ -2390,6 +2390,7 @@
         "Sissy Squat",
         "Sissy Squat Machine"
       ],
+      "exercise_type" : "bodyweight",
       "filename" : "sissy_squat.png",
       "id" : "sissy_squat",
       "keywords" : [
@@ -2397,8 +2398,7 @@
         "quads",
         "sissy",
         "squat"
-      ],
-      "exercise_type" : "bodyweight"
+      ]
     },
     {
       "description" : "AI-generated icon showing the Brisk march in place exercise pose",
@@ -2497,9 +2497,21 @@
       "keywords" : [
         "abductor"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Dumbbell Swing exercise pose",
+      "display_names" : [
+        "Dumbbell Swing"
+      ],
+      "filename" : "dumbbell_swing.png",
+      "id" : "dumbbell_swing",
+      "keywords" : [
+        "swing",
+        "dumbbell"
+      ]
     }
   ],
-  "last_updated" : "2026-01-10T12:00:00Z",
+  "last_updated" : "2026-01-11T06:37:36Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
