@@ -2399,6 +2399,104 @@
         "squat"
       ],
       "exercise_type" : "bodyweight"
+    },
+    {
+      "description" : "AI-generated icon showing the Brisk march in place exercise pose",
+      "display_names" : [
+        "Brisk march in place"
+      ],
+      "filename" : "brisk_march_in_place.png",
+      "id" : "brisk_march_in_place",
+      "keywords" : [
+        "march",
+        "brisk",
+        "place"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Cable Flyes exercise pose",
+      "display_names" : [
+        "Cable Flyes"
+      ],
+      "filename" : "cable_flyes.png",
+      "id" : "cable_flyes",
+      "keywords" : [
+        "flyes",
+        "cable"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Doorway rows exercise pose",
+      "display_names" : [
+        "Doorway rows"
+      ],
+      "filename" : "doorway_rows.png",
+      "id" : "doorway_rows",
+      "keywords" : [
+        "doorway",
+        "rows"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Cable Pallof Press exercise pose",
+      "display_names" : [
+        "Cable Pallof Press"
+      ],
+      "filename" : "cable_pallof_press.png",
+      "id" : "cable_pallof_press",
+      "keywords" : [
+        "pallof",
+        "cable",
+        "press"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Single-Leg RDL (Dumbbell) exercise pose",
+      "display_names" : [
+        "Single-Leg RDL (Dumbbell)"
+      ],
+      "filename" : "single_leg_rdl_(dumbbell).png",
+      "id" : "single_leg_rdl_(dumbbell)",
+      "keywords" : [
+        "(dumbbell)",
+        "rdl",
+        "leg",
+        "single"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Yoga exercise pose",
+      "display_names" : [
+        "Yoga"
+      ],
+      "filename" : "yoga.png",
+      "id" : "yoga",
+      "keywords" : [
+        "yoga"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Dumbbell RDL exercise pose",
+      "display_names" : [
+        "Dumbbell RDL"
+      ],
+      "filename" : "dumbbell_rdl.png",
+      "id" : "dumbbell_rdl",
+      "keywords" : [
+        "rdl",
+        "dumbbell"
+      ]
+    },
+    {
+      "description" : "AI-generated icon showing the Abductor exercise pose",
+      "display_names" : [
+        "Abductor"
+      ],
+      "filename" : "abductor.png",
+      "id" : "abductor",
+      "keywords" : [
+        "abductor"
+      ]
     }
   ],
   "last_updated" : "2026-01-10T12:00:00Z",
