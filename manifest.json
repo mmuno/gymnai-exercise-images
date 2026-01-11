@@ -2509,9 +2509,22 @@
         "swing",
         "dumbbell"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Hip Abductor Machine exercise pose",
+      "display_names" : [
+        "Hip Abductor Machine"
+      ],
+      "filename" : "hip_abductor_machine.png",
+      "id" : "hip_abductor_machine",
+      "keywords" : [
+        "hip",
+        "machine",
+        "abductor"
+      ]
     }
   ],
-  "last_updated" : "2026-01-11T06:37:36Z",
+  "last_updated" : "2026-01-11T06:40:59Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
