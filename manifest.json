@@ -2522,9 +2522,26 @@
         "machine",
         "abductor"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Dynamic Warm-up (march, hip circles, arm swings) exercise pose",
+      "display_names" : [
+        "Dynamic Warm-up (march, hip circles, arm swings)"
+      ],
+      "filename" : "dynamic_warm_up_(march,_hip_circles,_arm_swings).png",
+      "id" : "dynamic_warm_up_(march,_hip_circles,_arm_swings)",
+      "keywords" : [
+        "hip",
+        "circles,",
+        "arm",
+        "warm",
+        "(march,",
+        "swings)",
+        "dynamic"
+      ]
     }
   ],
-  "last_updated" : "2026-01-11T06:40:59Z",
+  "last_updated" : "2026-01-11T06:44:36Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
