@@ -2551,9 +2551,23 @@
         "jog",
         "place"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Power pulls (long strokes) exercise pose",
+      "display_names" : [
+        "Power pulls (long strokes)"
+      ],
+      "filename" : "power_pulls_(long_strokes).png",
+      "id" : "power_pulls_(long_strokes)",
+      "keywords" : [
+        "(long",
+        "power",
+        "strokes)",
+        "pulls"
+      ]
     }
   ],
-  "last_updated" : "2026-01-11T19:39:59Z",
+  "last_updated" : "2026-01-20T19:01:39Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
