@@ -2565,9 +2565,21 @@
         "strokes)",
         "pulls"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Incline Walk exercise pose",
+      "display_names" : [
+        "Incline Walk"
+      ],
+      "filename" : "incline_walk.png",
+      "id" : "incline_walk",
+      "keywords" : [
+        "walk",
+        "incline"
+      ]
     }
   ],
-  "last_updated" : "2026-01-20T19:01:39Z",
+  "last_updated" : "2026-01-26T23:46:44Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
