@@ -2589,9 +2589,21 @@
         "cadence",
         "reverse"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Tempo Pace exercise pose",
+      "display_names" : [
+        "Tempo Pace"
+      ],
+      "filename" : "tempo_pace.png",
+      "id" : "tempo_pace",
+      "keywords" : [
+        "tempo",
+        "pace"
+      ]
     }
   ],
-  "last_updated" : "2026-01-30T00:38:01Z",
+  "last_updated" : "2026-01-30T00:44:34Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
