@@ -2601,9 +2601,22 @@
         "tempo",
         "pace"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Cable Face Pull exercise pose",
+      "display_names" : [
+        "Cable Face Pull"
+      ],
+      "filename" : "cable_face_pull.png",
+      "id" : "cable_face_pull",
+      "keywords" : [
+        "face",
+        "pull",
+        "cable"
+      ]
     }
   ],
-  "last_updated" : "2026-01-30T00:44:34Z",
+  "last_updated" : "2026-01-31T00:22:57Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
