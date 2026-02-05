@@ -2614,9 +2614,22 @@
         "pull",
         "cable"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Dumbbell Shoulder Press exercise pose",
+      "display_names" : [
+        "Dumbbell Shoulder Press"
+      ],
+      "filename" : "dumbbell_shoulder_press.png",
+      "id" : "dumbbell_shoulder_press",
+      "keywords" : [
+        "dumbbell",
+        "press",
+        "shoulder"
+      ]
     }
   ],
-  "last_updated" : "2026-01-31T00:22:57Z",
+  "last_updated" : "2026-02-05T01:37:11Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
