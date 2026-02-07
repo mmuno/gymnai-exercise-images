@@ -2627,9 +2627,23 @@
         "press",
         "shoulder"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Lying Hamstring Curl (Machine) exercise pose",
+      "display_names" : [
+        "Lying Hamstring Curl (Machine)"
+      ],
+      "filename" : "lying_hamstring_curl_(machine).png",
+      "id" : "lying_hamstring_curl_(machine)",
+      "keywords" : [
+        "lying",
+        "hamstring",
+        "curl",
+        "(machine)"
+      ]
     }
   ],
-  "last_updated" : "2026-02-05T01:37:11Z",
+  "last_updated" : "2026-02-07T19:39:09Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
