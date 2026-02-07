@@ -2641,9 +2641,22 @@
         "curl",
         "(machine)"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the EZ Bar Bicep Curl exercise pose",
+      "display_names" : [
+        "EZ Bar Bicep Curl"
+      ],
+      "filename" : "ez_bar_bicep_curl.png",
+      "id" : "ez_bar_bicep_curl",
+      "keywords" : [
+        "curl",
+        "bar",
+        "bicep"
+      ]
     }
   ],
-  "last_updated" : "2026-02-07T19:39:09Z",
+  "last_updated" : "2026-02-07T20:38:43Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
