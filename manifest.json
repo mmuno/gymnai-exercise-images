@@ -2654,9 +2654,20 @@
         "bar",
         "bicep"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Adductor exercise pose",
+      "display_names" : [
+        "Adductor"
+      ],
+      "filename" : "adductor.png",
+      "id" : "adductor",
+      "keywords" : [
+        "adductor"
+      ]
     }
   ],
-  "last_updated" : "2026-02-07T20:38:43Z",
+  "last_updated" : "2026-02-08T19:40:31Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
