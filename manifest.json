@@ -2303,6 +2303,12 @@
         "treadmill",
         "walk",
         "jog"
+      ],
+      "display_names_es": [
+        "Caminata rápida / Trote ligero en cinta"
+      ],
+      "display_names_fr": [
+        "Marche rapide / Jogging léger sur tapis"
       ]
     },
     {
@@ -2321,6 +2327,12 @@
         "abductor",
         "machine",
         "hip"
+      ],
+      "display_names_es": [
+        "Máquina de Abductores"
+      ],
+      "display_names_fr": [
+        "Machine Abducteur"
       ]
     },
     {
@@ -2339,6 +2351,12 @@
         "machine",
         "hip",
         "inner thigh"
+      ],
+      "display_names_es": [
+        "Máquina de Aductores"
+      ],
+      "display_names_fr": [
+        "Machine Adducteur"
       ]
     },
     {
@@ -2356,6 +2374,12 @@
         "curl",
         "machine",
         "seated"
+      ],
+      "display_names_es": [
+        "Curl de Piernas Sentado"
+      ],
+      "display_names_fr": [
+        "Curl des Jambes Assis"
       ]
     },
     {
@@ -2373,6 +2397,12 @@
         "bench",
         "press",
         "barbell"
+      ],
+      "display_names_es": [
+        "Press de Banca Declinado"
+      ],
+      "display_names_fr": [
+        "Développé Couché Décliné"
       ]
     },
     {
@@ -2389,6 +2419,12 @@
         "decline",
         "dumbbell",
         "press"
+      ],
+      "display_names_es": [
+        "Press Declinado con Mancuernas"
+      ],
+      "display_names_fr": [
+        "Développé Décliné aux Haltères"
       ]
     },
     {
@@ -2406,6 +2442,12 @@
         "press",
         "machine",
         "seated"
+      ],
+      "display_names_es": [
+        "Press de Pecho en Máquina"
+      ],
+      "display_names_fr": [
+        "Presse Pectorale"
       ]
     },
     {
@@ -2424,6 +2466,12 @@
         "deck",
         "fly",
         "machine"
+      ],
+      "display_names_es": [
+        "Pec Deck"
+      ],
+      "display_names_fr": [
+        "Pec Deck"
       ]
     },
     {
@@ -2441,6 +2489,12 @@
         "press",
         "machine",
         "seated"
+      ],
+      "display_names_es": [
+        "Press de Hombros en Máquina"
+      ],
+      "display_names_fr": [
+        "Presse Épaules"
       ]
     },
     {
@@ -2460,6 +2514,12 @@
         "pec",
         "deck",
         "machine"
+      ],
+      "display_names_es": [
+        "Pec Deck Inverso"
+      ],
+      "display_names_fr": [
+        "Pec Deck Inversé"
       ]
     },
     {
@@ -2477,6 +2537,12 @@
         "hack",
         "squat",
         "machine"
+      ],
+      "display_names_es": [
+        "Sentadilla Hack"
+      ],
+      "display_names_fr": [
+        "Squat Hack"
       ]
     },
     {
@@ -2494,6 +2560,12 @@
         "smith",
         "machine",
         "squat"
+      ],
+      "display_names_es": [
+        "Sentadilla en Máquina Smith"
+      ],
+      "display_names_fr": [
+        "Squat à la Smith Machine"
       ]
     },
     {
@@ -2512,6 +2584,12 @@
         "raise",
         "seated",
         "machine"
+      ],
+      "display_names_es": [
+        "Elevación de Pantorrillas Sentado"
+      ],
+      "display_names_fr": [
+        "Mollets Assis"
       ]
     },
     {
@@ -2528,6 +2606,12 @@
         "row",
         "t-bar",
         "barbell"
+      ],
+      "display_names_es": [
+        "Remo en T"
+      ],
+      "display_names_fr": [
+        "Rowing en T"
       ]
     },
     {
@@ -2546,6 +2630,12 @@
         "pulldown",
         "wide",
         "grip"
+      ],
+      "display_names_es": [
+        "Jalón al Pecho Agarre Ancho"
+      ],
+      "display_names_fr": [
+        "Tirage Vertical Prise Large"
       ]
     },
     {
@@ -2564,6 +2654,12 @@
         "pulldown",
         "close",
         "grip"
+      ],
+      "display_names_es": [
+        "Jalón al Pecho Agarre Cerrado"
+      ],
+      "display_names_fr": [
+        "Tirage Vertical Prise Serrée"
       ]
     },
     {
@@ -2582,6 +2678,12 @@
         "chest",
         "supported",
         "dumbbell"
+      ],
+      "display_names_es": [
+        "Remo con Apoyo en Pecho"
+      ],
+      "display_names_fr": [
+        "Rowing avec Support Pectoral"
       ]
     },
     {
@@ -2600,6 +2702,12 @@
         "bench",
         "press",
         "flat"
+      ],
+      "display_names_es": [
+        "Press de Banca con Mancuernas"
+      ],
+      "display_names_fr": [
+        "Développé Couché aux Haltères"
       ]
     },
     {
@@ -2617,6 +2725,12 @@
         "glutes",
         "kickback",
         "machine"
+      ],
+      "display_names_es": [
+        "Patada de Glúteos en Máquina"
+      ],
+      "display_names_fr": [
+        "Machine Kickback Fessiers"
       ]
     },
     {
@@ -2635,6 +2749,12 @@
         "cable",
         "pull",
         "through"
+      ],
+      "display_names_es": [
+        "Pull-Through con Cable"
+      ],
+      "display_names_fr": [
+        "Tirage entre les Jambes au Câble"
       ]
     },
     {
@@ -2653,6 +2773,12 @@
         "good",
         "morning",
         "barbell"
+      ],
+      "display_names_es": [
+        "Buenos Días"
+      ],
+      "display_names_fr": [
+        "Good Morning"
       ]
     },
     {
@@ -2670,6 +2796,12 @@
         "nordic",
         "curl",
         "bodyweight"
+      ],
+      "display_names_es": [
+        "Curl Nórdico"
+      ],
+      "display_names_fr": [
+        "Curl Nordique"
       ]
     },
     {
@@ -2688,6 +2820,12 @@
         "trap",
         "bar",
         "hex"
+      ],
+      "display_names_es": [
+        "Peso Muerto con Barra Hexagonal"
+      ],
+      "display_names_fr": [
+        "Soulevé de Terre Barre Hexagonale"
       ]
     },
     {
@@ -2706,6 +2844,12 @@
         "pull",
         "chin",
         "bodyweight"
+      ],
+      "display_names_es": [
+        "Dominada Supina"
+      ],
+      "display_names_fr": [
+        "Traction Supination"
       ]
     },
     {
@@ -2724,6 +2868,12 @@
         "fly",
         "low",
         "high"
+      ],
+      "display_names_es": [
+        "Aperturas de Cable Bajo a Alto"
+      ],
+      "display_names_fr": [
+        "Écarté Câble Bas vers Haut"
       ]
     },
     {
@@ -2742,6 +2892,12 @@
         "fly",
         "high",
         "low"
+      ],
+      "display_names_es": [
+        "Aperturas de Cable Alto a Bajo"
+      ],
+      "display_names_fr": [
+        "Écarté Câble Haut vers Bas"
       ]
     },
     {
@@ -2759,6 +2915,12 @@
         "row",
         "machine",
         "seated"
+      ],
+      "display_names_es": [
+        "Remo en Máquina"
+      ],
+      "display_names_fr": [
+        "Rowing Machine"
       ]
     },
     {
@@ -2777,6 +2939,12 @@
         "pull",
         "up",
         "machine"
+      ],
+      "display_names_es": [
+        "Dominada Asistida"
+      ],
+      "display_names_fr": [
+        "Traction Assistée"
       ]
     },
     {
@@ -2794,6 +2962,12 @@
         "assisted",
         "dip",
         "machine"
+      ],
+      "display_names_es": [
+        "Fondos Asistidos"
+      ],
+      "display_names_fr": [
+        "Dips Assistés"
       ]
     },
     {
@@ -2811,6 +2985,12 @@
         "cable",
         "ez",
         "bar"
+      ],
+      "display_names_es": [
+        "Curl con Barra EZ en Cable"
+      ],
+      "display_names_fr": [
+        "Curl Barre EZ au Câble"
       ]
     },
     {
@@ -2827,6 +3007,12 @@
         "cable",
         "overhead",
         "extension"
+      ],
+      "display_names_es": [
+        "Extensión de Tríceps sobre la Cabeza con Cable"
+      ],
+      "display_names_fr": [
+        "Extension Triceps au-dessus de la Tête au Câble"
       ]
     },
     {
@@ -2843,6 +3029,12 @@
         "glutes",
         "cable",
         "kickback"
+      ],
+      "display_names_es": [
+        "Patada de Tríceps con Cable"
+      ],
+      "display_names_fr": [
+        "Kickback Triceps au Câble"
       ]
     },
     {
@@ -2859,6 +3051,12 @@
         "preacher",
         "curl",
         "machine"
+      ],
+      "display_names_es": [
+        "Curl Scott en Máquina"
+      ],
+      "display_names_fr": [
+        "Curl au Pupitre Machine"
       ]
     },
     {
@@ -2877,6 +3075,12 @@
         "raise",
         "machine",
         "standing"
+      ],
+      "display_names_es": [
+        "Elevación de Pantorrillas en Máquina"
+      ],
+      "display_names_fr": [
+        "Mollets à la Machine"
       ]
     },
     {
@@ -2893,6 +3097,12 @@
         "curl",
         "ez",
         "bar"
+      ],
+      "display_names_es": [
+        "Curl con Barra EZ"
+      ],
+      "display_names_fr": [
+        "Curl Barre EZ"
       ]
     },
     {
@@ -2909,6 +3119,12 @@
         "biceps",
         "curl",
         "barbell"
+      ],
+      "display_names_es": [
+        "Curl con Barra"
+      ],
+      "display_names_fr": [
+        "Curl à la Barre"
       ]
     },
     {
@@ -2926,6 +3142,12 @@
         "press",
         "dumbbell",
         "seated"
+      ],
+      "display_names_es": [
+        "Press con Mancuernas Sentado"
+      ],
+      "display_names_fr": [
+        "Développé Haltères Assis"
       ]
     },
     {
@@ -2944,6 +3166,12 @@
         "dumbbell",
         "single",
         "arm"
+      ],
+      "display_names_es": [
+        "Press con Mancuerna a Un Brazo"
+      ],
+      "display_names_fr": [
+        "Développé Haltère Un Bras"
       ]
     },
     {
@@ -2960,6 +3188,12 @@
         "fly",
         "incline",
         "dumbbell"
+      ],
+      "display_names_es": [
+        "Aperturas Inclinadas con Mancuernas"
+      ],
+      "display_names_fr": [
+        "Écarté Incliné aux Haltères"
       ]
     },
     {
@@ -2979,6 +3213,12 @@
         "pull",
         "rope",
         "cable"
+      ],
+      "display_names_es": [
+        "Face Pull con Cuerda"
+      ],
+      "display_names_fr": [
+        "Tirage Visage à la Corde"
       ]
     },
     {
@@ -2995,6 +3235,12 @@
         "traps",
         "shrug",
         "dumbbell"
+      ],
+      "display_names_es": [
+        "Encogimientos con Mancuernas"
+      ],
+      "display_names_fr": [
+        "Haussement d'Épaules aux Haltères"
       ]
     },
     {
@@ -3013,6 +3259,12 @@
         "v",
         "squat",
         "machine"
+      ],
+      "display_names_es": [
+        "Sentadilla en Máquina V"
+      ],
+      "display_names_fr": [
+        "Squat Machine en V"
       ]
     },
     {
@@ -3030,6 +3282,12 @@
         "belt",
         "squat",
         "machine"
+      ],
+      "display_names_es": [
+        "Sentadilla con Cinturón"
+      ],
+      "display_names_fr": [
+        "Squat au Ceinturon"
       ]
     },
     {
@@ -3046,6 +3304,12 @@
         "quads",
         "sissy",
         "squat"
+      ],
+      "display_names_es": [
+        "Sentadilla Sissy"
+      ],
+      "display_names_fr": [
+        "Sissy Squat"
       ]
     },
     {
@@ -3059,6 +3323,12 @@
         "march",
         "brisk",
         "place"
+      ],
+      "display_names_es": [
+        "Marcha rápida en el sitio"
+      ],
+      "display_names_fr": [
+        "Marche rapide sur place"
       ]
     },
     {
@@ -3071,6 +3341,12 @@
       "keywords": [
         "flyes",
         "cable"
+      ],
+      "display_names_es": [
+        "Aperturas con Cable"
+      ],
+      "display_names_fr": [
+        "Écartés aux Câbles"
       ]
     },
     {
@@ -3083,6 +3359,12 @@
       "keywords": [
         "doorway",
         "rows"
+      ],
+      "display_names_es": [
+        "Remo en puerta"
+      ],
+      "display_names_fr": [
+        "Rowing au cadre de porte"
       ]
     },
     {
@@ -3096,6 +3378,12 @@
         "pallof",
         "cable",
         "press"
+      ],
+      "display_names_es": [
+        "Press Pallof con Cable"
+      ],
+      "display_names_fr": [
+        "Presse Pallof au Câble"
       ]
     },
     {
@@ -3110,6 +3398,12 @@
         "rdl",
         "leg",
         "single"
+      ],
+      "display_names_es": [
+        "RDL a Una Pierna con Mancuerna"
+      ],
+      "display_names_fr": [
+        "RDL Unijambiste aux Haltères"
       ]
     },
     {
@@ -3121,6 +3415,12 @@
       "id": "yoga",
       "keywords": [
         "yoga"
+      ],
+      "display_names_es": [
+        "Yoga"
+      ],
+      "display_names_fr": [
+        "Yoga"
       ]
     },
     {
@@ -3133,6 +3433,12 @@
       "keywords": [
         "rdl",
         "dumbbell"
+      ],
+      "display_names_es": [
+        "Peso Muerto Rumano con Mancuernas"
+      ],
+      "display_names_fr": [
+        "Soulevé de Terre Roumain aux Haltères"
       ]
     },
     {
@@ -3144,6 +3450,12 @@
       "id": "abductor",
       "keywords": [
         "abductor"
+      ],
+      "display_names_es": [
+        "Abductores"
+      ],
+      "display_names_fr": [
+        "Abducteur"
       ]
     },
     {
@@ -3156,6 +3468,12 @@
       "keywords": [
         "swing",
         "dumbbell"
+      ],
+      "display_names_es": [
+        "Swing con Mancuerna"
+      ],
+      "display_names_fr": [
+        "Swing aux Haltères"
       ]
     },
     {
@@ -3169,6 +3487,12 @@
         "hip",
         "machine",
         "abductor"
+      ],
+      "display_names_es": [
+        "Máquina de Abductores de Cadera"
+      ],
+      "display_names_fr": [
+        "Machine Abducteur de Hanche"
       ]
     },
     {
@@ -3186,6 +3510,12 @@
         "(march,",
         "swings)",
         "dynamic"
+      ],
+      "display_names_es": [
+        "Calentamiento dinámico (marcha, círculos de cadera, balanceos de brazos)"
+      ],
+      "display_names_fr": [
+        "Échauffement dynamique (marche, cercles de hanches, balancement de bras)"
       ]
     },
     {
@@ -3198,6 +3528,12 @@
       "keywords": [
         "jog",
         "place"
+      ],
+      "display_names_es": [
+        "Trotar en el sitio"
+      ],
+      "display_names_fr": [
+        "Jogging sur place"
       ]
     },
     {
@@ -3212,6 +3548,12 @@
         "power",
         "strokes)",
         "pulls"
+      ],
+      "display_names_es": [
+        "Tirones de potencia (brazadas largas)"
+      ],
+      "display_names_fr": [
+        "Tirages puissants (longs mouvements)"
       ]
     },
     {
@@ -3224,6 +3566,12 @@
       "keywords": [
         "walk",
         "incline"
+      ],
+      "display_names_es": [
+        "Caminata en inclinación"
+      ],
+      "display_names_fr": [
+        "Marche en inclinaison"
       ]
     },
     {
@@ -3236,6 +3584,12 @@
       "keywords": [
         "cadence",
         "reverse"
+      ],
+      "display_names_es": [
+        "Cadencia inversa"
+      ],
+      "display_names_fr": [
+        "Cadence inversée"
       ]
     },
     {
@@ -3248,6 +3602,12 @@
       "keywords": [
         "tempo",
         "pace"
+      ],
+      "display_names_es": [
+        "Ritmo de tempo"
+      ],
+      "display_names_fr": [
+        "Rythme tempo"
       ]
     },
     {
@@ -3261,6 +3621,12 @@
         "face",
         "pull",
         "cable"
+      ],
+      "display_names_es": [
+        "Face Pull con Cable"
+      ],
+      "display_names_fr": [
+        "Tirage Visage au Câble"
       ]
     },
     {
@@ -3274,6 +3640,12 @@
         "dumbbell",
         "press",
         "shoulder"
+      ],
+      "display_names_es": [
+        "Press de Hombros con Mancuernas"
+      ],
+      "display_names_fr": [
+        "Développé Épaules aux Haltères"
       ]
     },
     {
@@ -3288,6 +3660,12 @@
         "hamstring",
         "curl",
         "(machine)"
+      ],
+      "display_names_es": [
+        "Curl de Isquiotibiales Acostado (Máquina)"
+      ],
+      "display_names_fr": [
+        "Curl Ischio-jambiers Couché (Machine)"
       ]
     },
     {
@@ -3301,6 +3679,12 @@
         "curl",
         "bar",
         "bicep"
+      ],
+      "display_names_es": [
+        "Curl de Bíceps con Barra EZ"
+      ],
+      "display_names_fr": [
+        "Curl Biceps Barre EZ"
       ]
     },
     {
@@ -3312,6 +3696,12 @@
       "id": "adductor",
       "keywords": [
         "adductor"
+      ],
+      "display_names_es": [
+        "Aductores"
+      ],
+      "display_names_fr": [
+        "Adducteur"
       ]
     }
   ],
