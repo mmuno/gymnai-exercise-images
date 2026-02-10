@@ -24,6 +24,11 @@
       "exercise_name" : "Yoga",
       "requested_at" : "2025-12-31T04:24:43Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Kettlebell Russian Twist",
+      "requested_at" : "2026-02-10T09:32:14Z",
+      "status" : "pending"
     }
   ]
 }
