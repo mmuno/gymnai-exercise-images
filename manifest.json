@@ -3716,9 +3716,22 @@
         "walk",
         "breathing"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Leg Press Machine exercise pose",
+      "display_names" : [
+        "Leg Press Machine"
+      ],
+      "filename" : "leg_press_machine.png",
+      "id" : "leg_press_machine",
+      "keywords" : [
+        "leg",
+        "press",
+        "machine"
+      ]
     }
   ],
-  "last_updated" : "2026-02-11T00:47:04Z",
+  "last_updated" : "2026-02-14T02:32:09Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
