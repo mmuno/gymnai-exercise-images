@@ -34,6 +34,11 @@
       "exercise_name" : "Neutral-Grip Lat Pulldown",
       "requested_at" : "2026-02-16T19:01:04Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Cable Triceps Pressdown",
+      "requested_at" : "2026-02-16T19:12:01Z",
+      "status" : "pending"
     }
   ]
 }
