@@ -29,6 +29,11 @@
       "exercise_name" : "Kettlebell Russian Twist",
       "requested_at" : "2026-02-10T09:32:14Z",
       "status" : "pending"
+    },
+    {
+      "exercise_name" : "Neutral-Grip Lat Pulldown",
+      "requested_at" : "2026-02-16T19:01:04Z",
+      "status" : "pending"
     }
   ]
 }
