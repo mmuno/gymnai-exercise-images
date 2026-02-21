@@ -3729,9 +3729,22 @@
         "press",
         "machine"
       ]
+    },
+    {
+      "description" : "AI-generated icon showing the Cable Hip Abduction exercise pose",
+      "display_names" : [
+        "Cable Hip Abduction"
+      ],
+      "filename" : "cable_hip_abduction.png",
+      "id" : "cable_hip_abduction",
+      "keywords" : [
+        "hip",
+        "abduction",
+        "cable"
+      ]
     }
   ],
-  "last_updated" : "2026-02-14T02:32:09Z",
+  "last_updated" : "2026-02-21T00:22:43Z",
   "version" : "1.0.0",
   "videos_base_url" : "https:\/\/raw.githubusercontent.com\/mmuno\/gymnai-exercise-images\/main\/videos\/"
 }
